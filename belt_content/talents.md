@@ -127,7 +127,7 @@ Un adepte utilise le talent de Combat à mains nues quand il porte une attaque c
 Le talent de Contre-malédiction annule temporairement les malédictions jetées sur un objet. L’adepte doit se trouver au moins à 3 mètres de l’objet pour utiliser ce talent et rester dans ce périmètre pendant toute la durée du talent, sinon, ses effets s’interrompent. Il effectue un test de Contre-malédiction contre la malédiction jetée sur l’objet ayant le niveau le plus élevé. Si le test réussit, toutes les malédictions présentes sur l’objet sont neutralisées pendant un nombre d’heures égal au rang de l’adepte en Contre-malédiction. Ce talent ne soulage pas les victimes qui ont déjà été affectées par une malédiction, en revanche, il permet à des personnages non atteints de se servir de l’objet sans risquer les effets de la malédiction.
 
 ## Conversation
-TODO
+
 
 ## Crochetage
 
@@ -743,23 +743,59 @@ Le talent de Tissage de filament donne également à l’adepte une version limi
 |Troubadour|Tissage d’histoire|
 |Voleur|Tissage de voleur|
 
+<table>
+  <tbody>
+    <tr><td align="left">Discipline          </td><td align="left">Tissage de filament
+    </td></tr>
+    <tr><td align="left">Archer              </td><td align="left">Tissage de flèche
+    </td></tr>
+    <tr><td align="left">Cavalier            </td><td align="left">Tissage de cavalier
+    </td></tr>
+    <tr><td align="left">Éclaireur           </td><td align="left">Tissage d’éclaireur
+    </td></tr>
+    <tr><td align="left">Écumeur du ciel     </td><td align="left">Tissage du ciel
+    </td></tr>
+    <tr><td align="left">Élémentaliste       </td><td align="left">Élémentalisme
+    </td></tr>
+    <tr><td align="left">Forgeron            </td><td align="left">Forge de filament
+    </td></tr>
+    <tr><td align="left">Guerrier            </td><td align="left">Tissage de guerre
+    </td></tr>
+    <tr><td align="left">Illusionniste       </td><td align="left">Illusionnisme
+    </td></tr>
+    <tr><td align="left">Maître d’armes      </td><td align="left">Tissage d’arme
+    </td></tr>
+    <tr><td align="left">Maître des animaux  </td><td align="left">Tissage d’animaux
+    </td></tr>
+    <tr><td align="left">Navigateur du ciel  </td><td align="left">Tissage des airs
+    </td></tr>
+    <tr><td align="left">Nécromancien        </td><td align="left">Nécromancie
+    </td></tr>
+    <tr><td align="left">Sorcier             </td><td align="left">Sorcellerie
+    </td></tr>
+    <tr><td align="left">Troubadour          </td><td align="left">Tissage d’histoire
+    </td></tr>
+    <tr><td align="left">Voleur              </td><td align="left">Tissage de voleur</td></tr>
+  </tbody>
+</table>
+
 ------------------- ----------------
-**Discipline**      **Tissage de filament**
-Archer              Tissage de flèche
-Cavalier            Tissage de cavalier
-Éclaireur           Tissage d’éclaireur
-Écumeur du ciel     Tissage du ciel
-Élémentaliste       Élémentalisme
-Forgeron            Forge de filament
-Guerrier            Tissage de guerre
-Illusionniste       Illusionnisme
-Maître d’armes      Tissage d’arme
-Maître des animaux  Tissage d’animaux
-Navigateur du ciel  Tissage des airs
-Nécromancien        Nécromancie
-Sorcier             Sorcellerie
-Troubadour          Tissage d’histoire
-Voleur              Tissage de voleur
+**Discipline**      |**Tissage de filament**
+Archer              |Tissage de flèche
+Cavalier            |Tissage de cavalier
+Éclaireur           |Tissage d’éclaireur
+Écumeur du ciel     |Tissage du ciel
+Élémentaliste       |Élémentalisme
+Forgeron            |Forge de filament
+Guerrier            |Tissage de guerre
+Illusionniste       |Illusionnisme
+Maître d’armes      |Tissage d’arme
+Maître des animaux  |Tissage d’animaux
+Navigateur du ciel  |Tissage des airs
+Nécromancien        |Nécromancie
+Sorcier             |Sorcellerie
+Troubadour          |Tissage d’histoire
+Voleur              |Tissage de voleur
 
 ## Vigilance
 **Niveau** : Rang + Perception
