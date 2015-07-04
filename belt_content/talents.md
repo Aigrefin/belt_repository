@@ -743,9 +743,9 @@ Le talent de Tissage de filament donne également à l’adepte une version limi
 |Troubadour|Tissage d’histoire|
 |Voleur|Tissage de voleur|
 
-<table>
+<table border="1">
   <tbody>
-    <tr><td align="left">Discipline          </td><td align="left">Tissage de filament
+    <tr><th align="left">Discipline          </td><th align="left">Tissage de filament
     </td></tr>
     <tr><td align="left">Archer              </td><td align="left">Tissage de flèche
     </td></tr>
@@ -778,24 +778,6 @@ Le talent de Tissage de filament donne également à l’adepte une version limi
     <tr><td align="left">Voleur              </td><td align="left">Tissage de voleur</td></tr>
   </tbody>
 </table>
-
-------------------- ----------------
-**Discipline**      |**Tissage de filament**
-Archer              |Tissage de flèche
-Cavalier            |Tissage de cavalier
-Éclaireur           |Tissage d’éclaireur
-Écumeur du ciel     |Tissage du ciel
-Élémentaliste       |Élémentalisme
-Forgeron            |Forge de filament
-Guerrier            |Tissage de guerre
-Illusionniste       |Illusionnisme
-Maître d’armes      |Tissage d’arme
-Maître des animaux  |Tissage d’animaux
-Navigateur du ciel  |Tissage des airs
-Nécromancien        |Nécromancie
-Sorcier             |Sorcellerie
-Troubadour          |Tissage d’histoire
-Voleur              |Tissage de voleur
 
 ## Vigilance
 **Niveau** : Rang + Perception
