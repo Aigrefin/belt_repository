@@ -112,41 +112,76 @@ L’adepte utilise le talent d’Armes de jet quand il veut porter une attaque �
 
 ## Armes de mêlée
 
-**Niveau** : rang + Dextérité
-
 **Action** : oui
-
-**Karma obligatoire** : non 
 
 **Effort** : 0
 
-L’adepte utilise le talent d’Armes de mêlée quand il veut porter une attaque au contact avec une arme de mêlée, comme une épée, une hache ou une dague. L’adepte effectue un test d’Armes de mêlée 
-contre la Défense physique de la cible. Si le test réussit, l’attaque touche. L’adepte effectue alors un test de dommages en comptant le niveau de dommages de l’arme utilisée.
+**Niveau** : rang + Dextérité
+
+**Cible** : 
+
+**Réussite** : résultat > Défense physique cible
+
+**Effet** : test de dommages de l'arme sur la cible
+
+**Durée** : Ponctuel
+
+**Karma obligatoire** : non 
+
+_Exemple d'utilisation_ : 
+
+**Remarques** :
+
+L’adepte utilise le talent d’Armes de mêlée quand il veut porter une attaque au contact avec une arme de mêlée, comme une épée, une hache ou une dague.
 
 ## Armes de tir
 
-**Niveau** : rang + Dextérité
-
 **Action** : oui
-
-**Karma obligatoire** : non 
 
 **Effort** : 0
 
-L’adepte utilise le talent d’Armes de tir quand il veut porter une attaque à distance avec une arme de tir, comme un arc, une arbalète ou tout autre arme qui utilise des projectiles de tir. L’adepte effectue un test d’Armes de tir contre la Défense physique de la cible. Si le test réussit, l’attaque touche. L’adepte effectue alors un test de dommages en comptant le niveau de dommages de l’arme utilisée.
-
-## Attaque acrobatique
-
 **Niveau** : rang + Dextérité
 
-**Action** : non
+**Cible** : 
+
+**Réussite** : résultat > Défense physique cible
+
+**Effet** : test de dommages de l'arme sur la cible
+
+**Durée** : Ponctuel
 
 **Karma obligatoire** : non 
 
+_Exemple d'utilisation_ : 
+
+**Remarques** :
+
+L’adepte utilise le talent d’Armes de tir quand il veut porter une attaque à distance avec une arme de tir, comme un arc, une arbalète ou tout autre arme qui utilise des projectiles de tir.
+
+## Attaque acrobatique
+
+**Action** : non
+
 **Effort** : 1
 
-Le talent d’Attaque acrobatique permet à l’adepte de faire toutes sortes de sauts, de flips, de roulades et autres voltiges au cours du combat, de manière à être plus difficile à toucher. L’adepte doit être libre de ses mouvements (non immobilisé ni cloué au sol) et disposer de suffisamment de place pour pouvoir effectuer ses acrobaties. L’adepte effectue un test d’Attaque acrobatique contre la Défense physique la plus élevée parmi celles des adversaires susceptibles de l’attaquer. Si le test réussit, l’adepte ajoute son rang à sa Défense physique pour le reste du round. Si l’adepte se retrouve À terre ou si son déplacement est réduit d’une façon ou d’une autre, il perd le bénéfice de ce bonus.
-Sur un degré de résultat Pathétique, l’adepte se retrouve automatiquement À terre. On considère qu’il a manqué sa réception, ou qu’il a trébuché et ne peut plus entreprendre aucune autre action pendant ce round.
+**Niveau** : rang + Dextérité
+
+**Cible** : Aucune
+
+**Réussite** : pas immobilisé ni cloué au sol ET espace ET résultat > Défense physique la plus élevée
+
+**Effet** : Défense physique + rang d'Attaque acrobatique
+
+**Durée** : Jusqu'à fin du round courant
+
+**Karma obligatoire** : non 
+
+_Exemple d'utilisation_ : 
+
+**Remarques** :
+
+Si l’adepte se retrouve À terre ou si son déplacement est réduit d’une façon ou d’une autre, il perd le bénéfice de ce bonus.
+Sur un degré de résultat Pathétique, l’adepte se retrouve automatiquement À terre.
 
 ## Attaque surprise
 
