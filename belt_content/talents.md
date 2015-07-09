@@ -2,31 +2,56 @@
 
 ## Analyse de créature
 
-**Niveau** : rang + Perception
-
 **Action** : oui
 
-**Durée** : 
-
 **Effort** : 1
+
+**Niveau** : rang + Perception
+
+**Cible** : créature
+
+**Réussite** : supérieur à Défense magique de la créature
+
+**Effet** : chaque degré de réussite = une question au MJ sur un fait/stat de la créature
+
+**Durée** : Ponctuel
+
 **Karma obligatoire** : non 
 
-Le talent d’Analyse de créature permet à un adepte d’obtenir des informations sur la créature qu’il observe. L’adepte effectue un test d’Analyse de créature contre la Défense magique de celle-ci. Si le test réussit, l’adepte peut, pour chaque degré de réussite obtenu, poser une question au maître de jeu sur une caractéristique technique ou une capacité de la créature, par exemple : « quelle est sa Défense physique ? » ou « quel est son Seuil de mort ? » La question doit être formulée à propos d’un élément précis. Une question d’ordre général comme « elle est balèze ? » devrait aboutir à une réponse du même acabit : « plutôt balèze ». Le maître de jeu devrait également interdire les questions qui induisent une comparaison entre plusieurs caractéristiques techniques, comme « cette bête a-t-elle plus de Force que moi ? » ou bien « quelle est sa Défense la plus élevée : physique ou magique ? »
-Quand il emploie le talent d’Analyse de créature, l’adepte utilise une forme de divination magique lui permettant de recueillir des informations à partir d’une simple observation. Les adeptes se servent généralement de ce talent pour prendre la mesure des Défenses magique et sociale d’une bête inconnue. Cela permet ainsi d’évaluer les chances qu’un personnage a s’il décide d’utiliser un talent comme Domination des animaux sur une bête. À la discrétion du maître de jeu, un tel usage d’Analyse de créature peut conférer un aperçu des points faibles de la créature – élément très utile à un groupe sur le point d’avoir des démêlées avec une bête inconnue.
+_Exemple d'utilisation_ : Quelle est la défense physique de la créature ?
 
 ## Analyse des indices
 
-**Niveau** : rang + Perception
-
 **Action** : oui
-
-**Karma obligatoire** : non 
 
 **Effort** : 1
 
-Le talent d’Analyse des indices permet à un adepte d’examiner des indices physiques et d’obtenir des réponses relatives à l’investigation qu’il est en train de mener, grâce à une bonne dose d’observation, de la logique, le tout relevé par de la magie divinatoire. En examinant un lit, un adepte pourra par exemple déterminer si son occupant a bien dormi ou non. En examinant une arme, il pourra savoir si cet objet a servi à assassiner quelqu’un. De façon générale, Analyse des indices ne peut permettre de répondre qu’aux questions portant sur le « quoi » ou le « comment » d’un objet ou d’un lieu. L’adepte effectue un test d’Analyse des indices contre la Défense magique de la personne à l’origine de l’indice. Si le test réussit, l’adepte peut deviner les réponses à une ou plusieurs questions en rapport avec un objet ou un lieu. Un degré de résultat Moyen offre la réponse à une question, un degré de résultat Bon à deux questions, un Excellent à trois questions et un Extraordinaire à quatre questions. Dans l’exemple précédent, l’adepte doit effectuer un test d’Analyse des indices contre la Défense magique de la personne qui a dormi dans le lit. Sur un degré de résultat Bon, il peut poser au maître de jeu une ou deux questions sur le « quoi » ou le « comment » en rapport avec le lit.
-Si les événements sur lesquels l’adepte enquête datent de moins de 24h et si le test d’Analyse des indices est réussi, l’adepte peut vaguement les situer dans le temps (c’est arrivé ce matin, cet après midi, ce soir). Au-delà des 24 premières heures, l’adepte perd cette capacité et la Difficulté du test augmente de +1 par jour supplémentaire. Bien que la Difficulté aille toujours grandissante, il n’y a pas de limite de temps pour tenter un test d’Analyse des indices.
-Le maître de jeu doit répondre aux questions qui lui sont posées. L’Analyse des indices ne permet en aucun cas d’apporter des réponses à des questions sur le « qui » ou le « pourquoi ». L’investigation repose toujours sur les faits, pas sur les motifs ou sur les intentions.
+**Niveau** : rang + Perception
+
+**Cible** : personne à l'origine de l'indice
+
+**Réussite** : supérieur à Défense magique de la personne à l'origine de l'indice
+
+**Effet** : chaque degré de réussite = l'adepte devine une réponse sur un quoi/comment d'un objet/lieu
+
+**Durée** : Ponctuel
+
+**Karma obligatoire** : non 
+
+_Exemple d'utilisation_ : En examinant un lit, un adepte pourra par exemple déterminer si son occupant a bien dormi ou non.
+
+_Remarques_
+* Moyen : 1 question
+* Bon : 2 questions
+* Excellent : 3 questions
+* Extraordinaire : 4 questions
+Chaque question porte sur **le même indice**.
+Si événements moins de 24h et test réussi : peut vaguement les situer dans le temps (c’est arrivé ce matin, cet après midi, ce soir)
+Si Au-delà des 24 premières heures : perd cette capacité et la Difficulté du test augmente de +1 par jour supplémentaire
+Il n’y a **pas de limite de temps** pour tenter un test d’Analyse des indices.
+Le maître de jeu doit répondre aux questions qui lui sont posées.
+Pas de questions sur « qui » ou « pourquoi »
+L’investigation repose toujours sur les __faits, pas sur les motifs ou sur les intentions__.
 
 ## Anticipation
 
