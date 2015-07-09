@@ -41,10 +41,12 @@ _Exemple d'utilisation_ : Quelle est la défense physique de la créature ?
 _Exemple d'utilisation_ : En examinant un lit, un adepte pourra par exemple déterminer si son occupant a bien dormi ou non.
 
 _Remarques_
+Degrés de réussite :
 * Moyen : 1 question
 * Bon : 2 questions
 * Excellent : 3 questions
 * Extraordinaire : 4 questions
+
 Chaque question porte sur **le même indice**.
 Si événements moins de 24h et test réussi : peut vaguement les situer dans le temps (c’est arrivé ce matin, cet après midi, ce soir)
 Si Au-delà des 24 premières heures : perd cette capacité et la Difficulté du test augmente de +1 par jour supplémentaire
