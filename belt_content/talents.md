@@ -80,7 +80,7 @@ L’investigation repose toujours sur les **faits, pas sur les motifs ou sur les
 
 **Karma obligatoire** : non 
 
-_Exemple d'utilisation_ : En examinant un lit, un adepte pourra par exemple déterminer si son occupant a bien dormi ou non.
+_Exemple d'utilisation_ : 
 
 **Remarques** :
 
