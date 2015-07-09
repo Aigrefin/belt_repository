@@ -1,10 +1,12 @@
 # Talents
 
 ## Analyse de créature
-
-**Action** : oui **Effort** : 1 **Niveau** : rang + Perception
-**Durée** : Ponctuel **Karma obligatoire** : non 
-**Réussite** : résultat > Défense magique de la créature
+* **Action** : oui
+* **Effort** : 1
+* **Niveau** : rang + Perception
+* **Durée** : Ponctuel
+* **Karma obligatoire** : non 
+* **Réussite** : résultat > Défense magique de la créature
 
 **Cible** : créature 
 
