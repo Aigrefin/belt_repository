@@ -10,7 +10,7 @@
 
 **Cible** : créature
 
-**Réussite** : supérieur à Défense magique de la créature
+**Réussite** : résultat > Défense magique de la créature
 
 **Effet** : chaque degré de réussite = une question au MJ sur un fait/stat de la créature
 
@@ -30,7 +30,7 @@ _Exemple d'utilisation_ : Quelle est la défense physique de la créature ?
 
 **Cible** : personne à l'origine de l'indice
 
-**Réussite** : supérieur à Défense magique de la personne à l'origine de l'indice
+**Réussite** : résultat > Défense magique personne à l'origine de l'indice
 
 **Effet** : chaque degré de réussite = l'adepte devine une réponse sur un quoi/comment d'un objet/lieu
 
@@ -64,16 +64,27 @@ L’investigation repose toujours sur les **faits, pas sur les motifs ou sur les
 
 ## Anticipation
 
-**Niveau** : rang + Perception
-
 **Action** : non
-
-**Karma obligatoire** : non 
 
 **Effort** : 1
 
-Le talent d’Anticipation permet à un adepte de mieux se défendre contre une attaque à venir. Pour pouvoir utiliser ce talent, l’adepte doit obtenir un résultat d’initiative supérieur à celui de son adversaire. Il effectue alors un test d’Anticipation contre la Défense magique de celui-ci. Si le test réussit, l’adepte ajoute son rang d’Anticipation à sa Défense physique contre les attaques de cet adversaire, jusqu’à la fin du round.
-L’Anticipation peut également aider le personnage à être plus efficace lors de sa contre-attaque. S’il retarde son action jusqu’à ce que l’adversaire contre lequel il vient d’utiliser son talent d’Anticipation l’attaque, il peut alors ajouter son rang d’Anticipation au résultat de sa prochaine attaque contre ce dernier. Chaque round, l’adepte peut utiliser l’Anticipation contre un nombre maximum d’adversaires égal à son rang en Anticipation.
+**Niveau** : rang + Perception
+
+**Cible** : adversaire (autant que de rang d'Anticipation durant un round)
+
+**Réussite** : initiative > initiative adversaire ET résultat > Défense magique adversaire
+
+**Effet** : (Défense physique + rang d'Anticipation) contre attaques de l'adversaire + voir remarques
+
+**Durée** : Jusqu'à fin du round courant
+
+**Karma obligatoire** : non 
+
+_Exemple d'utilisation_ : En examinant un lit, un adepte pourra par exemple déterminer si son occupant a bien dormi ou non.
+
+**Remarques** :
+
+Si adepte retarde son action jusqu’à ce que l'adversaire cible attaque, alors rang d’Anticipation + résultat de sa prochaine attaque contre lui sur ce round.
 
 ## Armes de jet
 
