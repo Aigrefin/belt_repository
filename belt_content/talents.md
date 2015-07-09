@@ -6,31 +6,22 @@
 * **Niveau** : rang + Perception
 * **Durée** : Ponctuel
 * **Karma obligatoire** : non 
+* **Cible** : créature 
 * **Réussite** : résultat > Défense magique de la créature
-
-**Cible** : créature 
-
-**Effet** : chaque degré de réussite = une question au MJ sur un fait/stat de la créature
+* **Effet** : chaque degré de réussite = une question au MJ sur un fait/stat de la créature
 
 _Exemple d'utilisation_ : Quelle est la défense physique de la créature ?
 
 ## Analyse des indices
 
-**Action** : oui
-
-**Effort** : 1
-
-**Niveau** : rang + Perception
-
-**Cible** : personne à l'origine de l'indice
-
-**Réussite** : résultat > Défense magique personne à l'origine de l'indice
-
-**Effet** : chaque degré de réussite = l'adepte devine une réponse sur un quoi/comment d'un objet/lieu
-
-**Durée** : Ponctuel
-
-**Karma obligatoire** : non 
+* **Action** : oui
+* **Effort** : 1
+* **Niveau** : rang + Perception
+* **Durée** : Ponctuel
+* **Karma obligatoire** : non 
+* **Cible** : personne à l'origine de l'indice
+* **Réussite** : résultat > Défense magique personne à l'origine de l'indice
+* **Effet** : chaque degré de réussite = l'adepte devine une réponse sur un quoi/comment d'un objet/lieu
 
 _Exemple d'utilisation_ : En examinant un lit, un adepte pourra par exemple déterminer si son occupant a bien dormi ou non.
 
@@ -58,23 +49,14 @@ L’investigation repose toujours sur les **faits, pas sur les motifs ou sur les
 
 ## Anticipation
 
-**Action** : non
-
-**Effort** : 1
-
-**Niveau** : rang + Perception
-
-**Cible** : adversaire (autant que de rang d'Anticipation durant un round)
-
-**Réussite** : initiative > initiative adversaire ET résultat > Défense magique adversaire
-
-**Effet** : (Défense physique + rang d'Anticipation) contre attaques de l'adversaire + voir remarques
-
-**Durée** : Jusqu'à fin du round courant
-
-**Karma obligatoire** : non 
-
-_Exemple d'utilisation_ : 
+* **Action** : non
+* **Effort** : 1
+* **Niveau** : rang + Perception
+* **Durée** : Jusqu'à fin du round courant
+* **Karma obligatoire** : non 
+* **Cible** : adversaire (autant que de rang d'Anticipation durant un round)
+* **Réussite** : initiative > initiative adversaire ET résultat > Défense magique adversaire
+* **Effet** : (Défense physique + rang d'Anticipation) contre attaques de l'adversaire + voir remarques
 
 **Remarques** :
 
@@ -82,23 +64,14 @@ Si adepte retarde son action jusqu’à ce que l'adversaire cible attaque, alors
 
 ## Armes de jet
 
-**Action** : oui
-
-**Effort** : 0
-
-**Niveau** : rang + Dextérité
-
-**Cible** : 
-
-**Réussite** : résultat > Défense physique cible
-
-**Effet** : test de dommages de l'arme sur la cible
-
-**Durée** : Ponctuel
-
-**Karma obligatoire** : non 
-
-_Exemple d'utilisation_ : 
+* **Action** : oui
+* **Effort** : 0
+* **Niveau** : rang + Dextérité
+* **Durée** : Ponctuel
+* **Karma obligatoire** : non 
+* **Cible** : tout
+* **Réussite** : résultat > Défense physique cible
+* **Effet** : test de dommages de l'arme sur la cible
 
 **Remarques** :
 
@@ -106,23 +79,14 @@ L’adepte utilise le talent d’Armes de jet quand il veut porter une attaque �
 
 ## Armes de mêlée
 
-**Action** : oui
-
-**Effort** : 0
-
-**Niveau** : rang + Dextérité
-
-**Cible** : 
-
-**Réussite** : résultat > Défense physique cible
-
-**Effet** : test de dommages de l'arme sur la cible
-
-**Durée** : Ponctuel
-
-**Karma obligatoire** : non 
-
-_Exemple d'utilisation_ : 
+* **Action** : oui
+* **Effort** : 0
+* **Niveau** : rang + Dextérité
+* **Durée** : Ponctuel
+* **Karma obligatoire** : non
+* **Cible** : tout
+* **Réussite** : résultat > Défense physique cible
+* **Effet** : test de dommages de l'arme sur la cible
 
 **Remarques** :
 
@@ -130,23 +94,14 @@ L’adepte utilise le talent d’Armes de mêlée quand il veut porter une attaq
 
 ## Armes de tir
 
-**Action** : oui
-
-**Effort** : 0
-
-**Niveau** : rang + Dextérité
-
-**Cible** : 
-
-**Réussite** : résultat > Défense physique cible
-
-**Effet** : test de dommages de l'arme sur la cible
-
-**Durée** : Ponctuel
-
-**Karma obligatoire** : non 
-
-_Exemple d'utilisation_ : 
+* **Action** : oui
+* **Effort** : 0
+* **Niveau** : rang + Dextérité
+* **Durée** : Ponctuel
+* **Karma obligatoire** : non
+* **Cible** : tout
+* **Réussite** : résultat > Défense physique cible
+* **Effet** : test de dommages de l'arme sur la cible
 
 **Remarques** :
 
@@ -154,23 +109,14 @@ L’adepte utilise le talent d’Armes de tir quand il veut porter une attaque �
 
 ## Attaque acrobatique
 
-**Action** : non
-
-**Effort** : 1
-
-**Niveau** : rang + Dextérité
-
-**Cible** : Aucune
-
-**Réussite** : pas immobilisé ni cloué au sol ET espace ET résultat > Défense physique la plus élevée
-
-**Effet** : Défense physique + rang d'Attaque acrobatique
-
-**Durée** : Jusqu'à fin du round courant
-
-**Karma obligatoire** : non 
-
-_Exemple d'utilisation_ : 
+* **Action** : non
+* **Effort** : 1
+* **Niveau** : rang + Dextérité
+* **Durée** : Jusqu'à fin du round courant
+* **Karma obligatoire** : non
+* **Cible** : Aucune
+* **Réussite** : pas immobilisé ni cloué au sol ET espace ET résultat > Défense physique la plus élevée
+* **Effet** : Défense physique + rang d'Attaque acrobatique
 
 **Remarques** :
 
@@ -179,15 +125,18 @@ Sur un degré de résultat Pathétique, l’adepte se retrouve automatiquement �
 
 ## Attaque surprise
 
-**Niveau** : rang + Force
+* **Action** : non
+* **Effort** : 1
+* **Niveau** : rang + Force
+* **Durée** : Ponctuel
+* **Karma obligatoire** : non
+* **Cible** : adversaire
+* **Réussite** : adversaire supris ET réussite test d'attaque
+* **Effet** : test de dommages : rang d'Attaque surprise à la place de la Force
 
-**Action** : non
+**Remarques** :
 
-**Karma obligatoire** : non 
-
-**Effort** : 1
-
-Le talent d’Attaque surprise permet à un adepte de profiter de l’effet de surprise pour infliger des dommages plus importants. Pour pouvoir utiliser ce talent, l’adversaire de l’adepte doit être Surpris. L’adepte fait son test d’attaque. Si le test réussit, il peut utiliser son niveau d’Attaque surprise à la place de son niveau de Force lors du test de dommages. À moins qu’il ne soit capable, d’une façon ou d’une autre, de recréer une situation où son adversaire sera de nouveau Surpris (en utilisant le talent d’ Approche surprise, par exemple), il ne peut utiliser le talent d’Attaque surprise qu’une seule fois contre un même adversaire lors d’un même combat. Pour plus d’informations sur la surprise et la façon dont elle fonctionne, consultez Les modificateurs de situation.
+À moins qu’il ne soit capable, d’une façon ou d’une autre, de recréer une situation où son adversaire sera de nouveau Surpris (en utilisant le talent d’ Approche surprise, par exemple), il ne peut utiliser le talent d’Attaque surprise qu’une seule fois contre un même adversaire lors d’un même combat. Pour plus d’informations sur la surprise et la façon dont elle fonctionne, consultez Les modificateurs de situation.
 
 ## Combats à mains nues
 
