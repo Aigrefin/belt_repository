@@ -6,9 +6,10 @@
 
 **Action** : oui
 
-**Karma obligatoire** : non 
+**Durée** : 
 
 **Effort** : 1
+**Karma obligatoire** : non 
 
 Le talent d’Analyse de créature permet à un adepte d’obtenir des informations sur la créature qu’il observe. L’adepte effectue un test d’Analyse de créature contre la Défense magique de celle-ci. Si le test réussit, l’adepte peut, pour chaque degré de réussite obtenu, poser une question au maître de jeu sur une caractéristique technique ou une capacité de la créature, par exemple : « quelle est sa Défense physique ? » ou « quel est son Seuil de mort ? » La question doit être formulée à propos d’un élément précis. Une question d’ordre général comme « elle est balèze ? » devrait aboutir à une réponse du même acabit : « plutôt balèze ». Le maître de jeu devrait également interdire les questions qui induisent une comparaison entre plusieurs caractéristiques techniques, comme « cette bête a-t-elle plus de Force que moi ? » ou bien « quelle est sa Défense la plus élevée : physique ou magique ? »
 Quand il emploie le talent d’Analyse de créature, l’adepte utilise une forme de divination magique lui permettant de recueillir des informations à partir d’une simple observation. Les adeptes se servent généralement de ce talent pour prendre la mesure des Défenses magique et sociale d’une bête inconnue. Cela permet ainsi d’évaluer les chances qu’un personnage a s’il décide d’utiliser un talent comme Domination des animaux sur une bête. À la discrétion du maître de jeu, un tel usage d’Analyse de créature peut conférer un aperçu des points faibles de la créature – élément très utile à un groupe sur le point d’avoir des démêlées avec une bête inconnue.
