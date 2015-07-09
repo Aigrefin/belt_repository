@@ -2,15 +2,10 @@
 
 ## Analyse de créature
 
-**Action** : oui
-
-**Effort** : 1
-
-**Niveau** : rang + Perception
-
-**Cible** : créature
-
+**Action** : oui **Effort** : 1 **Niveau** : rang + Perception
 **Réussite** : résultat > Défense magique de la créature
+
+**Cible** : créature 
 
 **Effet** : chaque degré de réussite = une question au MJ sur un fait/stat de la créature
 
