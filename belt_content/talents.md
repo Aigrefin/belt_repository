@@ -40,7 +40,8 @@ _Exemple d'utilisation_ : Quelle est la défense physique de la créature ?
 
 _Exemple d'utilisation_ : En examinant un lit, un adepte pourra par exemple déterminer si son occupant a bien dormi ou non.
 
-_Remarques_
+**Remarques** :
+
 Degrés de réussite :
 * Moyen : 1 question
 * Bon : 2 questions
@@ -53,7 +54,7 @@ Si Au-delà des 24 premières heures : perd cette capacité et la Difficulté du
 Il n’y a **pas de limite de temps** pour tenter un test d’Analyse des indices.
 Le maître de jeu doit répondre aux questions qui lui sont posées.
 Pas de questions sur « qui » ou « pourquoi »
-L’investigation repose toujours sur les __faits, pas sur les motifs ou sur les intentions__.
+L’investigation repose toujours sur les **faits, pas sur les motifs ou sur les intentions**.
 
 ## Anticipation
 
