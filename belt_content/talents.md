@@ -88,15 +88,27 @@ Si adepte retarde son action jusqu’à ce que l'adversaire cible attaque, alors
 
 ## Armes de jet
 
-**Niveau** : rang + Dextérité
-
 **Action** : oui
-
-**Karma obligatoire** : non 
 
 **Effort** : 0
 
-L’adepte utilise le talent d’Armes de jet quand il veut porter une attaque à distance avec une arme de jet, comme un caillou, une dague ou une lance. L’adepte effectue un test d’Armes de jet contre la Défense physique de la cible. Si le test réussit, l’attaque touche. L’adepte effectue alors un test de dommages en comptant le niveau de dommages de l’arme utilisée.
+**Niveau** : rang + Dextérité
+
+**Cible** : 
+
+**Réussite** : résultat > Défense physique cible
+
+**Effet** : test de dommages de l'arme sur la cible
+
+**Durée** : Ponctuel
+
+**Karma obligatoire** : non 
+
+_Exemple d'utilisation_ : 
+
+**Remarques** :
+
+L’adepte utilise le talent d’Armes de jet quand il veut porter une attaque à distance avec une arme de jet, comme un caillou, une dague ou une lance.
 
 ## Armes de mêlée
 
