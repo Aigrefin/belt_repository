@@ -49,11 +49,17 @@ Degrés de réussite :
 * Extraordinaire : 4 questions
 
 Chaque question porte sur **le même indice**.
+
 Si événements moins de 24h et test réussi : peut vaguement les situer dans le temps (c’est arrivé ce matin, cet après midi, ce soir)
+
 Si Au-delà des 24 premières heures : perd cette capacité et la Difficulté du test augmente de +1 par jour supplémentaire
+
 Il n’y a **pas de limite de temps** pour tenter un test d’Analyse des indices.
+
 Le maître de jeu doit répondre aux questions qui lui sont posées.
+
 Pas de questions sur « qui » ou « pourquoi »
+
 L’investigation repose toujours sur les **faits, pas sur les motifs ou sur les intentions**.
 
 ## Anticipation
