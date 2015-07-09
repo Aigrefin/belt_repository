@@ -3,15 +3,12 @@
 ## Analyse de créature
 
 **Action** : oui **Effort** : 1 **Niveau** : rang + Perception
+**Durée** : Ponctuel **Karma obligatoire** : non 
 **Réussite** : résultat > Défense magique de la créature
 
 **Cible** : créature 
 
 **Effet** : chaque degré de réussite = une question au MJ sur un fait/stat de la créature
-
-**Durée** : Ponctuel
-
-**Karma obligatoire** : non 
 
 _Exemple d'utilisation_ : Quelle est la défense physique de la créature ?
 
