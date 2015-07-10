@@ -57,7 +57,7 @@ L’investigation repose toujours sur les **faits, pas sur les motifs ou sur les
 * **Niveau** : rang + Perception
 * **Durée** : Jusqu'à fin du round courant
 * **Karma obligatoire** : non
-
+### Content
 * **Cible** : adversaire (autant que de rang d'Anticipation durant un round)
 * **Réussite** : initiative > initiative adversaire ET résultat > Défense magique adversaire
 * **Effet** : (Défense physique + rang d'Anticipation) contre attaques de l'adversaire + voir remarques
@@ -67,13 +67,13 @@ L’investigation repose toujours sur les **faits, pas sur les motifs ou sur les
 Si adepte retarde son action jusqu’à ce que l'adversaire cible attaque, alors rang d’Anticipation + résultat de sa prochaine attaque contre lui sur ce round.
 
 ## Armes de jet
-
+### Glimpse
 * **Action** : oui
 * **Effort** : 0
 * **Niveau** : rang + Dextérité
 * **Durée** : Ponctuel
 * **Karma obligatoire** : non 
-
+### Content
 * **Cible** : tout
 * **Réussite** : résultat > Défense physique cible
 * **Effet** : test de dommages de l'arme sur la cible
@@ -89,7 +89,7 @@ L’adepte utilise le talent d’Armes de jet quand il veut porter une attaque �
 * **Niveau** : rang + Dextérité
 * **Durée** : Ponctuel
 * **Karma obligatoire** : non
-
+### Content
 * **Cible** : tout
 * **Réussite** : résultat > Défense physique cible
 * **Effet** : test de dommages de l'arme sur la cible
@@ -105,7 +105,7 @@ L’adepte utilise le talent d’Armes de mêlée quand il veut porter une attaq
 * **Niveau** : rang + Dextérité
 * **Durée** : Ponctuel
 * **Karma obligatoire** : non
-
+### Content
 * **Cible** : tout
 * **Réussite** : résultat > Défense physique cible
 * **Effet** : test de dommages de l'arme sur la cible
@@ -121,7 +121,7 @@ L’adepte utilise le talent d’Armes de tir quand il veut porter une attaque �
 * **Niveau** : rang + Dextérité
 * **Durée** : Jusqu'à fin du round courant
 * **Karma obligatoire** : non
-
+### Content
 * **Cible** : Aucune
 * **Réussite** : pas immobilisé ni cloué au sol ET espace ET résultat > Défense physique la plus élevée
 * **Effet** : Défense physique + rang d'Attaque acrobatique
@@ -138,7 +138,7 @@ Sur un degré de résultat Pathétique, l’adepte se retrouve automatiquement �
 * **Niveau** : rang + Force
 * **Durée** : Ponctuel
 * **Karma obligatoire** : non
-
+### Content
 * **Cible** : adversaire
 * **Réussite** : adversaire supris ET réussite test d'attaque
 * **Effet** : test de dommages : rang d'Attaque surprise à la place de la Force
@@ -148,6 +148,15 @@ Sur un degré de résultat Pathétique, l’adepte se retrouve automatiquement �
 À moins qu’il ne soit capable, d’une façon ou d’une autre, de recréer une situation où son adversaire sera de nouveau Surpris (en utilisant le talent d’ Approche surprise, par exemple), il ne peut utiliser le talent d’Attaque surprise qu’une seule fois contre un même adversaire lors d’un même combat. Pour plus d’informations sur la surprise et la façon dont elle fonctionne, consultez Les modificateurs de situation.
 
 ## Combats à mains nues
+* **Action** : oui
+* **Effort** : 0
+* **Niveau** : rang + Dextérité
+* **Durée** : Ponctuel
+* **Karma obligatoire** : non
+### Content
+* **Cible** : adversaire
+* **Réussite** : résultat > Défense physique cible
+* **Effet** : test de dommages de l'arme sur la cible
 
 **Niveau** : rang + Dextérité
 
