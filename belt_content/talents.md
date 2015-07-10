@@ -7,6 +7,7 @@
 * **Niveau** : rang + Perception
 * **Durée** : Ponctuel
 * **Karma obligatoire** : non 
+
 * **Cible** : créature 
 * **Réussite** : résultat > Défense magique de la créature
 * **Effet** : chaque degré de réussite = une question au MJ sur un fait/stat de la créature
@@ -20,6 +21,7 @@ _Exemple d'utilisation_ : Quelle est la défense physique de la créature ?
 * **Niveau** : rang + Perception
 * **Durée** : Ponctuel
 * **Karma obligatoire** : non 
+
 * **Cible** : personne à l'origine de l'indice
 * **Réussite** : résultat > Défense magique personne à l'origine de l'indice
 * **Effet** : chaque degré de réussite = l'adepte devine une réponse sur un quoi/comment d'un objet/lieu
@@ -54,7 +56,8 @@ L’investigation repose toujours sur les **faits, pas sur les motifs ou sur les
 * **Effort** : 1
 * **Niveau** : rang + Perception
 * **Durée** : Jusqu'à fin du round courant
-* **Karma obligatoire** : non 
+* **Karma obligatoire** : non
+
 * **Cible** : adversaire (autant que de rang d'Anticipation durant un round)
 * **Réussite** : initiative > initiative adversaire ET résultat > Défense magique adversaire
 * **Effet** : (Défense physique + rang d'Anticipation) contre attaques de l'adversaire + voir remarques
@@ -70,6 +73,7 @@ Si adepte retarde son action jusqu’à ce que l'adversaire cible attaque, alors
 * **Niveau** : rang + Dextérité
 * **Durée** : Ponctuel
 * **Karma obligatoire** : non 
+
 * **Cible** : tout
 * **Réussite** : résultat > Défense physique cible
 * **Effet** : test de dommages de l'arme sur la cible
@@ -85,6 +89,7 @@ L’adepte utilise le talent d’Armes de jet quand il veut porter une attaque �
 * **Niveau** : rang + Dextérité
 * **Durée** : Ponctuel
 * **Karma obligatoire** : non
+
 * **Cible** : tout
 * **Réussite** : résultat > Défense physique cible
 * **Effet** : test de dommages de l'arme sur la cible
@@ -100,6 +105,7 @@ L’adepte utilise le talent d’Armes de mêlée quand il veut porter une attaq
 * **Niveau** : rang + Dextérité
 * **Durée** : Ponctuel
 * **Karma obligatoire** : non
+
 * **Cible** : tout
 * **Réussite** : résultat > Défense physique cible
 * **Effet** : test de dommages de l'arme sur la cible
@@ -115,6 +121,7 @@ L’adepte utilise le talent d’Armes de tir quand il veut porter une attaque �
 * **Niveau** : rang + Dextérité
 * **Durée** : Jusqu'à fin du round courant
 * **Karma obligatoire** : non
+
 * **Cible** : Aucune
 * **Réussite** : pas immobilisé ni cloué au sol ET espace ET résultat > Défense physique la plus élevée
 * **Effet** : Défense physique + rang d'Attaque acrobatique
@@ -131,6 +138,7 @@ Sur un degré de résultat Pathétique, l’adepte se retrouve automatiquement �
 * **Niveau** : rang + Force
 * **Durée** : Ponctuel
 * **Karma obligatoire** : non
+
 * **Cible** : adversaire
 * **Réussite** : adversaire supris ET réussite test d'attaque
 * **Effet** : test de dommages : rang d'Attaque surprise à la place de la Force
