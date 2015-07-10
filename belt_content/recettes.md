@@ -6,7 +6,6 @@
 * **Ingrédients** : 4
 * **Prix** : €
 ### Content
-![Ceci est l'image de la vinaigrette](http://addapinch.com/cooking/files/2012/08/Bacon-Stone-Ground-Mustard-Vinaigrette-9792.jpg)
 #### Ingredients
 * 1 gousse d'**ail** par personne
 * 4 feuilles de **basilic** par personne
