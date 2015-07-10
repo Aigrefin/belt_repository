@@ -10,7 +10,7 @@
 * **Cible** : créature 
 * **Réussite** : résultat > Défense magique de la créature
 * **Effet** : chaque degré de réussite = une question au MJ sur un fait/stat de la créature
-### Details
+
 _Exemple d'utilisation_ : Quelle est la défense physique de la créature ?
 
 ## Analyse des indices
