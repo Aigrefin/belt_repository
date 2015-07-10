@@ -7,8 +7,7 @@
 * **Niveau** : rang + Perception
 * **Durée** : Ponctuel
 * **Karma obligatoire** : non 
-
-meh
+### Content
 * **Cible** : créature 
 * **Réussite** : résultat > Défense magique de la créature
 * **Effet** : chaque degré de réussite = une question au MJ sur un fait/stat de la créature
@@ -22,7 +21,7 @@ _Exemple d'utilisation_ : Quelle est la défense physique de la créature ?
 * **Niveau** : rang + Perception
 * **Durée** : Ponctuel
 * **Karma obligatoire** : non 
-
+### Content
 * **Cible** : personne à l'origine de l'indice
 * **Réussite** : résultat > Défense magique personne à l'origine de l'indice
 * **Effet** : chaque degré de réussite = l'adepte devine une réponse sur un quoi/comment d'un objet/lieu
