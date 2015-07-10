@@ -8,6 +8,7 @@
 * **Durée** : Ponctuel
 * **Karma obligatoire** : non 
 
+meh
 * **Cible** : créature 
 * **Réussite** : résultat > Défense magique de la créature
 * **Effet** : chaque degré de réussite = une question au MJ sur un fait/stat de la créature
