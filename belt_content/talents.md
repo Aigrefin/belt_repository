@@ -1,6 +1,7 @@
 # Talents
 
 ## Analyse de créature
+### Glimpse
 * **Action** : oui
 * **Effort** : 1
 * **Niveau** : rang + Perception
@@ -9,11 +10,11 @@
 * **Cible** : créature 
 * **Réussite** : résultat > Défense magique de la créature
 * **Effet** : chaque degré de réussite = une question au MJ sur un fait/stat de la créature
-
+### Details
 _Exemple d'utilisation_ : Quelle est la défense physique de la créature ?
 
 ## Analyse des indices
-
+### Glimpse
 * **Action** : oui
 * **Effort** : 1
 * **Niveau** : rang + Perception
@@ -48,7 +49,7 @@ Pas de questions sur « qui » ou « pourquoi »
 L’investigation repose toujours sur les **faits, pas sur les motifs ou sur les intentions**.
 
 ## Anticipation
-
+### Glimpse
 * **Action** : non
 * **Effort** : 1
 * **Niveau** : rang + Perception
@@ -78,7 +79,7 @@ Si adepte retarde son action jusqu’à ce que l'adversaire cible attaque, alors
 L’adepte utilise le talent d’Armes de jet quand il veut porter une attaque à distance avec une arme de jet, comme un caillou, une dague ou une lance.
 
 ## Armes de mêlée
-
+### Glimpse
 * **Action** : oui
 * **Effort** : 0
 * **Niveau** : rang + Dextérité
@@ -93,7 +94,7 @@ L’adepte utilise le talent d’Armes de jet quand il veut porter une attaque �
 L’adepte utilise le talent d’Armes de mêlée quand il veut porter une attaque au contact avec une arme de mêlée, comme une épée, une hache ou une dague.
 
 ## Armes de tir
-
+### Glimpse
 * **Action** : oui
 * **Effort** : 0
 * **Niveau** : rang + Dextérité
@@ -108,7 +109,7 @@ L’adepte utilise le talent d’Armes de mêlée quand il veut porter une attaq
 L’adepte utilise le talent d’Armes de tir quand il veut porter une attaque à distance avec une arme de tir, comme un arc, une arbalète ou tout autre arme qui utilise des projectiles de tir.
 
 ## Attaque acrobatique
-
+### Glimpse
 * **Action** : non
 * **Effort** : 1
 * **Niveau** : rang + Dextérité
@@ -124,7 +125,7 @@ Si l’adepte se retrouve À terre ou si son déplacement est réduit d’une fa
 Sur un degré de résultat Pathétique, l’adepte se retrouve automatiquement À terre.
 
 ## Attaque surprise
-
+### Glimpse
 * **Action** : non
 * **Effort** : 1
 * **Niveau** : rang + Force
