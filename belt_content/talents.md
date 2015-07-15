@@ -55,7 +55,7 @@ L’investigation repose toujours sur les **faits, pas sur les motifs ou sur les
 * **Action** : non
 * **Effort** : 1
 * **Niveau** : rang + Perception
-* **Durée** : Jusqu'à fin du round courant
+* **Durée** : avant fin du round
 * **Karma obligatoire** : non
 ### Content
 * **Cible** : adversaire (autant que de rang d'Anticipation durant un round)
