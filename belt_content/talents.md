@@ -347,6 +347,11 @@ Le talent d’Esquive des pièges permet à un adepte de réagir beaucoup plus r
 Le talent d’Esquive permet à un adepte d’éviter des coups dirigées contre lui en combat. Quand il est la cible d’une attaque, à distance ou au contact, l’adepte peut effectuer un test d’Esquive contre le résultat du test d’attaque de son adversaire pour éviter le coup avant que 
 celui-ci ne le blesse. Pour éviter une attaque à distance il est nécessaire d’obtenir au moins un degré de résultat Bon. Si le test réussit, l’adepte évite le coup : il voit l’attaque arriver et s’écarte au bon moment. Sur un degré de résultat Pathétique il se retrouve automatiquement À terre (voir Les modificateurs de situation, cf. Combat). L’adepte peut utiliser ce talent un nombre de fois par round égal à son rang en Esquive, mais jamais deux fois pour esquiver une même attaque. Un adepte ne peut pas tenter d’Esquive s’il est Surpris ou Pris au dépourvu.
 
+## Evaluate
+
+The adept has a shrewd sense for the true market value of an
+object. The adept examines the object and makes an Evalu- ate Test against the item’s Spell Defense. On an Average Result, he learns the item’s approximate price. Better Result Levels may disclose more detailed information based on the local or global economy, at the gamemaster’s discretion. On a Good Result, the adept also learns the item’s hidden value, if any, not readily apparent to the casual observer (for example if it is worth more to collec- tors). When evaluating magical items, the adept learns that the item is magical on an Excellent Result, but not the effect or pur- pose of its enchantment.
+
 ## Flèche de direction
 
 **Niveau** : rang + Perception
@@ -371,6 +376,11 @@ Le talent de Flèche de direction permet à un adepte de déterminer la position
 
 Le talent de Flèche enflammée transforme une flèche normale en un projectile en flammé, détruisant la flèche au passage. L’adepte effectue un test d’Armes de tir contre la Défense de la cible. Si le test réussit, il utilise son niveau de Flèche en flammée pour le test de dommages. L’Armure physique protège contre ces dommages.
 Malgré son nom, Flèche enflammée fonctionne également avec d’autres types de projectiles pour armes de tir, comme les carreaux d’arbalète, les billes de fronde ou les aiguilles de sarbacane.
+
+## Forge Weapon
+
+The adept improves the Damage Step of a weapon, including melee, missile, and thrown weapons, but not ammunition, like arrows or bolts. The work must be carried out at a properly-
+equipped forge, using forge tools (p.266) if working metal, or at a properly-equipped workshop, using appropriate tools if working other materials. A poorly-equipped workplace may increase the time required, or a well-equipped workplace may reduce the time required, to use the talent, at the gamemaster’s discretion. The adept works to improve a weapon for a number of days equal to the weapon’s Size and makes a Forge Weapon Test against a Dif- ficulty Number equal to the weapon’s current Damage Step+9. If successful, the weapon’s Damage Step is increased by +1. Forge Weapon can be successfully used on the same weapon a number of times equal to its Size, but the process gets harder each time, as the Difficulty Number increases as the weapon’s Damage Step increases. The adept cannot forge a weapon’s base Damage Step higher than his Forge Weapon Rank—an adept with Forge Weapon at Rank 4 can perform increases up to the fourth, regardless of whether he forged previous increases himself. The Damage Step increase lasts for a year and a day from the date of the last suc- cessful forging. Additional Forge Weapon Tests can be made at any time to extend the duration to a full year and a day, even for weapons already enhanced to their limit. A Pathetic Result on a Forge Weapon Test ruins the weapon. This talent cannot be used to enhance threaded magical weapons; rather, weapons enhanced by Forge Weapon form the base of further enchantment to create thread weapons. The services of smiths can be bought in larger cities, but the higher the desired Damage Step increase, the higher the cost (higher bonuses require a more experienced smith). The first two increases usually cost 250 silver pieces each; the third and fourth, 500 silver pieces each; and the fifth and sixth, 750 cost silver pieces each (these costs cover any failed attempts).
 
 ## Histoire des objets
 
