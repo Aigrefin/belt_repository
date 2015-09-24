@@ -715,6 +715,11 @@ Au cours d’un même round, l’adepte ne peut pas utiliser le talent de Sprint
 
 Le talent de Stabilité améliore les capacités de l’adepte à rester debout après un coup violent. L’adepte peut utiliser son niveau de Stabilité à la place de son niveau de Force quand il doit faire un test d’équilibre après avoir subi une blessure grave.
 
+## Steel Though
+
+The adept resists magical abilities that target his Spell Defense. Any time he is targeted by such an ability, the adept may make a Steel Thought Test against his opponent’s Test Result. If
+successful, he forges his thoughts into more resilient patterns, pre- venting the ability from affecting him. This talent works similarly to the Avoid Blow talent, but is only effective against magical abili- ties, such as talents, spells, and creature powers. The adept can use thistalentanumberoftimesequaltohisSteelThoughtRankeach round, but only once against each such effect directed at him.
+
 ## Survie
 
 **Niveau** : Rang + Perception
