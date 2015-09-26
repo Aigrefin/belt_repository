@@ -68,6 +68,22 @@ Sur un degré de résultat Pathétique, l’adepte se retrouve automatiquement �
 
 Si adepte retarde son action jusqu’à ce que l'adversaire cible attaque, alors rang d’Anticipation + résultat de sa prochaine attaque contre lui sur ce round.
 
+## Climbing
+### Glimpse
+* **Action** : Standard
+* **Effort** : 0
+* **Niveau** : rang + Dextérité
+* **Durée** : round
+* **Karma obligatoire** : non
+### Content
+* **Cible** : Surface/object
+* **Réussite** : Test > Difficulté de la surface/objet
+* **Effet** : Escalade de surface/objets de rang mètres
+
+**Remarques** :
+* Sur un résultat Pathétique, l'adepte chute
+* Quelque soit son rang en Escalade, la distance effectuée chaque round par l’adepte ne peut pas être supérieure à son Déplacement de combat.
+
 ## Creature Analysis
 ### Glimpse
 * **Action** : oui
@@ -101,18 +117,24 @@ L'attitude de la cible ne peut être améliorée de la même façon pendant la d
 __Exemple d'utilisation__ : 
 Par exemple, un humain qui veut se déguiser en t’skrang possèdera une queue affreusement courte.
 
-## Détection des pièges
+## Detect Trap
+### Glimpse
+* **Action** : Standard
+* **Effort** : 1
+* **Niveau** : rang + Perception
+* **Durée** : rang * heures
+* **Karma obligatoire** : non
+### Content
+* **Cible** : Armes dissimulées à portée de visibilité (see the Gamemaster’s Guide, p. 119)
+* **Réussite** : Test > Difficultés des pièges dissimulés / Défense magique
+* **Effet** :
+ * Détecte des indices révélant la présence d'un ou plusieurs pièges.
+ * Résultat Bon : localise précisément le déclencheur et trouve généralement un moyen pour éviter de déclencher le piège
+ * Résultat Excellent : quel type d’effet déclenche le piège (écrasement, coup violent, poison, etc.)
+ * Résultat Extraordinaire : bonus égal à son rang en Détection des pièges pour toutes ces tentatives de Désamorçage des pièges.
 
-**Niveau** : rang + Perception
-
-**Action** : oui
-
-**Karma obligatoire** : non 
-
-**Effort** : 1
-
-Le talent de Détection des pièges permet à un adepte de détecter les pièges d’origine mécanique et magique. L’adepte effectue un test de Détection des pièges et compare son résultat à la Difficulté de détection de tous les pièges à portée courte de visibilité. La Difficulté de détection de la plupart des pièges mécaniques est de 5, bien que des pièges parfaitement camouflés atteignent parfois des difficultés de détection de 9. En ce qui concerne les pièges magiques, leur Difficculté de détection est égale à la Défense magique du piège.
-Si le test réussit, l’adepte repère un indice révélant la présence d’un ou de plusieurs pièges. Sur un degré de résultat Bon, il peut localiser précisément le déclencheur et trouve généralement un moyen pour éviter de déclencher le piège. Un degré de résultat Excellent lui permet de savoir quel type d’effet déclenche le piège (écrasement, coup violent, poison, etc.) Un degré de résultat Extraordinaire signifie que l’adepte bénéficie d’un bonus égal à son rang en Détection des pièges pour toutes ces tentatives de Désamorçage des pièges.
+**Remarques** :
+* La Difficulté de détection de la plupart des pièges mécaniques est de 5, bien que des pièges parfaitement camouflés atteignent parfois des difficultés de détection de 9.
 
 ## Detect Weapon
 ### Glimpse
@@ -164,55 +186,56 @@ Si le test réussit, l’adepte repère un indice révélant la présence d’un
 * S’il désire véritablement se faire passer pour quelqu’un d’autre, l’adepte devra avoir recours à d’autres capacités pour convaincre, comme par exemple la compétence de Comédie ou le talent d’Imitation de voix.
 * Le talent de Déguisement magique ne modifie que l’apparence de l’adepte. 
 
-## Don des langues
+## Durability
+### Glimpse
+* **Action** : non
+* **Effort** : 0
+* **Niveau** : rang
+* **Durée** : Permanent
+* **Karma obligatoire** : non
+### Content
+* **Cible** : Aucune
+* **Réussite** : Aucune
+* **Effet** : Augmente seuil de mort/inconscience
 
-**Niveau** : rang + Perception
+**Remarques** :
+* C’est la discipline qui détermine la valeur de cette augmentation.
+* Même si l’Endurance est spécifique à chaque discipline, ce talent s’apprend et se développe uniquement pour la première discipline d’un adepte.
+* Pour chaque discipline, deux valeurs séparées d’un « / ». La valeur la plus haute représente l’augmentation du Seuil de mort de l’adepte à chaque nouveau rang. La valeur la plus basse représente l’augmentation de son Seuil d’inconscience à chaque nouveau rang.
 
-**Action** : non
-
-**Karma obligatoire** : non 
-
-**Effort** : 1 (voir le texte)
-
-Le talent de Don des langues permet à un adepte de communiquer avec les autres en utilisant différents langages. Un adepte peut utiliser ce talent pour apprendre un nombre de langues égal à son rang en Don des langues. S’il a un ou plusieurs rangs « libres » (non assignés à une langue), il peut tenter d’en apprendre une ou plusieurs nouvelles. Pour se faire, l’adepte doit écouter quelqu’un qui parle couramment la langue en question pendant au moins 1 minute. Il effectue ensuite un test de Don des langues contre la Difficulté d’apprentissage de cette langue. Si le test réussit, la langue a été apprise et il la note sur sa feuille de personnage.
-Si le test est raté, l’adepte ne peut plus tenter d’apprendre cette langue avant d’avoir augmenté son rang en Don des langues. En revanche, il peut tenter d’apprendre d’autres langages ou dialectes. Une fois qu’un rang de Don des langues a été assigné à une langue, il ne peut plus être utilisé pour apprendre une autre langue. La Difficulté d’apprentissage des différentes langues raciales est indiquée dans la Table des Difficultés des langues. Les valeurs indiquées reflètent la Difficulté d’apprentissage des versions « génériques » des langues en question.
-Quand il s’exprime dans une langue étrangère, l’adepte effectue un test de Don des langues pour déterminer dans quelle mesure il arrive à se faire comprendre. Le résultat du test détermine son niveau de compréhension. Des phrases ou des idées simples comme « dans quelle direction se trouve le village ? » ne nécessitent qu’un résultat de 2. Une conversation normale avec quelques termes précis ou un peu de jargon requiert un résultat de 6. Une conversation technique ou une discussion argumentée autour d’un jargon spécialisé, un résultat de 10. Une discussion philosophique construite sur des concepts abstraits, un résultat de 13. Les effets de chaque test de Don des langues durent un nombre d’heures égal au rang de l’adepte en Don des langues, période pendant laquelle l’adepte peut communiquer au niveau de compréhension indiqué par le résultat du test. Si l’adepte veut tenir une conversation d’un niveau plus complexe, il peut effectuer un nouveau test de Don des langues, sans oublier d’encaisser un point d’effort supplémentaire, point qui correspond à la concentration nécessaire pour maintenir la communication.
-
-|Langue|Difficulté d’apprentissage|
-|---|---|
-|Humain|6|
-|Nain|5|
-|Obsidien|7|
-|Or’zet (orc)|6|
-|Sperethiel (elfe)|6|
-|Sylphelin|7|
-|Troll|6|
-|T’skrang|7|
-
-## Endurance
-
-**Niveau** : rang
-
-**Action** : NA
-
-**Karma obligatoire** : non 
-
-**Effort** : 0
-
-Le talent d’Endurance augmente la capacité d’un adepte à encaisser des dommages. Chaque rang en Endurance augmente de façon permanente les Seuils de mort et d’inconscience de l’adepte. C’est la discipline qui détermine la valeur de cette augmentation. Même si l’Endurance est spécifique à chaque discipline, ce talent s’apprend et se développe uniquement pour la première discipline d’un adepte.
-Pour chaque discipline, deux valeurs séparées d’un « / ». La valeur la plus haute représente l’augmentation du Seuil de mort de l’adepte à chaque nouveau rang. La valeur la plus basse représente l’augmentation de son Seuil d’inconscience à chaque nouveau rang.
-
-## Escalade
-
-**Niveau** : rang + Dextérité
-
-**Action** : oui
-
-**Karma obligatoire** : non 
-
-**Effort** : 0
-
-Le talent d’Escalade permet à un adepte de grimper ou de descendre le long de surfaces ou d’objets à la verticale. L’adepte effectue un test d’Escalade contre la Difficulté d’escalade de la surface, déterminée par le maître de jeu. Si le test réussit, il peut escalader en un round une distance maximale égale à son rang en Escalade + 3 mètres. Sur un degré de résultat Pathétique, il lâche prise et tombe, encaissant les dommages de chute éventuels. Quelque soit son rang en Escalade, la distance effectuée chaque round par l’adepte ne peut pas être supérieure à son Déplacement de combat.
+<table border="1">
+  <tbody>
+    <tr><th align="left">Discipline          </td><th align="left">Mort/Inconscience
+    </td></tr>
+    <tr><td align="left">Archer              </td><td align="left">6/5
+    </td></tr>
+    <tr><td align="left">Cavalier            </td><td align="left">7/6
+    </td></tr>
+    <tr><td align="left">Éclaireur           </td><td align="left">6/5
+    </td></tr>
+    <tr><td align="left">Écumeur du ciel     </td><td align="left">8/6
+    </td></tr>
+    <tr><td align="left">Élémentaliste       </td><td align="left">4/3
+    </td></tr>
+    <tr><td align="left">Forgeron            </td><td align="left">6/5
+    </td></tr>
+    <tr><td align="left">Guerrier            </td><td align="left">9/7
+    </td></tr>
+    <tr><td align="left">Illusionniste       </td><td align="left">4/3
+    </td></tr>
+    <tr><td align="left">Maître d’armes      </td><td align="left">7/6
+    </td></tr>
+    <tr><td align="left">Maître des animaux  </td><td align="left">7/6
+    </td></tr>
+    <tr><td align="left">Nécromancien        </td><td align="left">4/3
+    </td></tr>
+    <tr><td align="left">Sorcier             </td><td align="left">4/3
+    </td></tr>
+    <tr><td align="left">Troubadour          </td><td align="left">6/5
+    </td></tr>
+    <tr><td align="left">Voleur              </td><td align="left">6/5</td></tr>
+  </tbody>
+</table>
 
 ## Esquive des pièges
 
@@ -693,6 +716,42 @@ Ce talent est généralement plus efficace quand il est utilisé aux dépends d�
 
 Le talent de Souvenirs livresques permet à un adepte de retrouver une information dans un texte mémorisé par le biais du talent Mémoire livresque, bien que l’adepte n’ai plus en mémoire le texte en question, à cause du temps qui passe, ou parce qu’il l’a remplacé par un autre texte. Alors qu’il existe une véritable limite à la somme d’information qu’un adepte peut mémoriser, la Difficulté pour se souvenir est déterminée par le nombre total de livres que le personnage a actuellement en mémoire, grâce au talent Mémoire livresque, comme le montre la table des Souvenirs livresques. Cette difficulté correspond à l’examination, dans un premier temps, de toutes les informations aisément accessibles grâce au talent de Mémoire livresque, puis, dans un deuxième temps, aux informations qui ont été un temps mémorisées et qui restent stockées quelque part dans l’inconscient de l’adepte. 
 Celui-ci effectue un test de Souvenirs livresques contre la Difficulté du souvenir. Si le test réussit, il retrouve l’information perdue pendant un nombre de minutes égal à son rang en Souvenirs livresques. Pendant ce laps de temps, le contenu du livre lui est parfaitement accessible. Il peut lire, recopier ou chercher des informations comme s’il avait le véritable livre sous les yeux. L’adepte peut même choisir de replacer ce texte dans sa mémoire active, à condition bien sûr qu’il ait un rang disponible en Mémoire livresque. Sur un degré de résultat Pathétique, la connaissance du livre est tellement dégradée qu’il ne se souvient plus de rien. Tout le contenu du livre est perdu. Cela dit, l’adepte peut toujours prendre le temps de mémoriser le livre à nouveau à l’aide de son talent de Mémoire livresque.
+
+## Speak Language
+### Glimpse
+* **Action** : non
+* **Effort** : 1 (voir le texte)
+* **Niveau** : rang + Perception
+* **Durée** : Permanent / rang * heures
+* **Karma obligatoire** : oui
+### Content
+* **Cible** : Langue écoutée
+* **Réussite** : Test > difficulté de la langue / compréhension quand parlé
+* **Effet** : Apprend la langue / parle la langue
+
+**Remarques** :
+* Un adepte peut utiliser ce talent pour apprendre un nombre de langues égal à son rang en Don des langues. -
+* L’adepte doit écouter quelqu’un qui parle couramment la langue en question pendant au moins 1 minute.
+* Si le test est raté, l’adepte ne peut plus tenter d’apprendre cette langue avant d’avoir augmenté son rang en Don des langues. En revanche, il peut tenter d’apprendre d’autres langages ou dialectes.
+* La Difficulté d’apprentissage des différentes langues raciales est indiquée dans la Table des Difficultés des langues. Les valeurs indiquées reflètent la Difficulté d’apprentissage des versions « génériques » des langues en question.
+* Quand il s’exprime dans une langue étrangère, l’adepte effectue un test de Don des langues pour déterminer dans quelle mesure il arrive à se faire comprendre. Le résultat du test détermine son niveau de compréhension.
+* Des phrases ou des idées simples comme « dans quelle direction se trouve le village ? » ne nécessitent qu’un résultat de 2.
+* Une conversation normale avec quelques termes précis ou un peu de jargon requiert un résultat de 6.
+* Une conversation technique ou une discussion argumentée autour d’un jargon spécialisé, un résultat de 10.
+* Une discussion philosophique construite sur des concepts abstraits, un résultat de 13.
+* Dure un nombre d’heures égal au rang de l’adepte en Don des langues, période pendant laquelle l’adepte peut communiquer au niveau de compréhension indiqué par le résultat du test.
+* Si l’adepte veut tenir une conversation d’un niveau plus complexe, il peut effectuer un nouveau test de Don des langues, sans oublier d’encaisser un point d’effort supplémentaire, point qui correspond à la concentration nécessaire pour maintenir la communication.
+
+|Langue|Difficulté d’apprentissage|
+|---|---|
+|Humain|6|
+|Nain|5|
+|Obsidien|7|
+|Or’zet (orc)|6|
+|Sperethiel (elfe)|6|
+|Sylphelin|7|
+|Troll|6|
+|T’skrang|7|
 
 ## Sprint
 
