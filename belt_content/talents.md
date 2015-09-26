@@ -1,4 +1,49 @@
 # Talents
+## Abate curse
+
+**Niveau** : rang + Volonté
+
+**Action** : oui
+
+**Karma obligatoire** : non 
+
+**Effort** : 1
+
+Le talent de Contre-malédiction annule temporairement les malédictions jetées sur un objet. L’adepte doit se trouver au moins à 3 mètres de l’objet pour utiliser ce talent et rester dans ce périmètre pendant toute la durée du talent, sinon, ses effets s’interrompent. Il effectue un test de Contre-malédiction contre la malédiction jetée sur l’objet ayant le niveau le plus élevé. Si le test réussit, toutes les malédictions présentes sur l’objet sont neutralisées pendant un nombre d’heures égal au rang de l’adepte en Contre-malédiction. Ce talent ne soulage pas les victimes qui ont déjà été affectées par une malédiction, en revanche, il permet à des personnages non atteints de se servir de l’objet sans risquer les effets de la malédiction.
+
+## Acrobatic Strike
+### Glimpse
+* **Action** : non
+* **Effort** : 1
+* **Niveau** : rang + Dextérité
+* **Durée** : Jusqu'à fin du round courant
+* **Karma obligatoire** : non
+### Content
+* **Cible** : Aucune
+* **Réussite** : pas immobilisé ni cloué au sol ET espace ET résultat > Défense physique la plus élevée
+* **Effet** : Défense physique + rang d'Attaque acrobatique
+
+**Remarques** :
+
+Si l’adepte se retrouve À terre ou si son déplacement est réduit d’une façon ou d’une autre, il perd le bénéfice de ce bonus.
+Sur un degré de résultat Pathétique, l’adepte se retrouve automatiquement À terre.
+
+## Anticipate Blow
+### Glimpse
+* **Action** : non
+* **Effort** : 1
+* **Niveau** : rang + Perception
+* **Durée** : < fin du round
+* **Karma obligatoire** : non
+### Content
+* **Cible** : adversaire (autant que de rang d'Anticipation durant un round)
+* **Réussite** : initiative > initiative adversaire ET résultat > Défense magique adversaire
+* **Effet** : (Défense physique + rang d'Anticipation) contre attaques de l'adversaire + voir remarques
+
+**Remarques** :
+
+Si adepte retarde son action jusqu’à ce que l'adversaire cible attaque, alors rang d’Anticipation + résultat de sa prochaine attaque contre lui sur ce round.
+
 
 ## Creature Analysis
 ### Glimpse
@@ -49,136 +94,6 @@ Le maître de jeu doit répondre aux questions qui lui sont posées.
 Pas de questions sur « qui » ou « pourquoi »
 
 L’investigation repose toujours sur les **faits, pas sur les motifs ou sur les intentions**.
-
-## Anticipate Blow
-### Glimpse
-* **Action** : non
-* **Effort** : 1
-* **Niveau** : rang + Perception
-* **Durée** : < fin du round
-* **Karma obligatoire** : non
-### Content
-* **Cible** : adversaire (autant que de rang d'Anticipation durant un round)
-* **Réussite** : initiative > initiative adversaire ET résultat > Défense magique adversaire
-* **Effet** : (Défense physique + rang d'Anticipation) contre attaques de l'adversaire + voir remarques
-
-**Remarques** :
-
-Si adepte retarde son action jusqu’à ce que l'adversaire cible attaque, alors rang d’Anticipation + résultat de sa prochaine attaque contre lui sur ce round.
-
-## Throwing weapon
-### Glimpse
-* **Action** : oui
-* **Effort** : 0
-* **Niveau** : rang + Dextérité
-* **Durée** : Ponctuel
-* **Karma obligatoire** : non 
-### Content
-* **Cible** : tout
-* **Réussite** : résultat > Défense physique cible
-* **Effet** : test de dommages de l'arme sur la cible
-
-**Remarques** :
-
-L’adepte utilise le talent d’Armes de jet quand il veut porter une attaque à distance avec une arme de jet, comme un caillou, une dague ou une lance.
-
-## Melee weapon
-### Glimpse
-* **Action** : oui
-* **Effort** : 0
-* **Niveau** : rang + Dextérité
-* **Durée** : Ponctuel
-* **Karma obligatoire** : non
-### Content
-* **Cible** : tout
-* **Réussite** : résultat > Défense physique cible
-* **Effet** : test de dommages de l'arme sur la cible
-
-**Remarques** :
-
-L’adepte utilise le talent d’Armes de mêlée quand il veut porter une attaque au contact avec une arme de mêlée, comme une épée, une hache ou une dague.
-
-## Missile weapon
-### Glimpse
-* **Action** : oui
-* **Effort** : 0
-* **Niveau** : rang + Dextérité
-* **Durée** : Ponctuel
-* **Karma obligatoire** : non
-### Content
-* **Cible** : tout
-* **Réussite** : résultat > Défense physique cible
-* **Effet** : test de dommages de l'arme sur la cible
-
-**Remarques** :
-
-L’adepte utilise le talent d’Armes de tir quand il veut porter une attaque à distance avec une arme de tir, comme un arc, une arbalète ou tout autre arme qui utilise des projectiles de tir.
-
-## Acrobatic Strike
-### Glimpse
-* **Action** : non
-* **Effort** : 1
-* **Niveau** : rang + Dextérité
-* **Durée** : Jusqu'à fin du round courant
-* **Karma obligatoire** : non
-### Content
-* **Cible** : Aucune
-* **Réussite** : pas immobilisé ni cloué au sol ET espace ET résultat > Défense physique la plus élevée
-* **Effet** : Défense physique + rang d'Attaque acrobatique
-
-**Remarques** :
-
-Si l’adepte se retrouve À terre ou si son déplacement est réduit d’une façon ou d’une autre, il perd le bénéfice de ce bonus.
-Sur un degré de résultat Pathétique, l’adepte se retrouve automatiquement À terre.
-
-## Surprise Strike
-### Glimpse
-* **Action** : non
-* **Effort** : 1
-* **Niveau** : rang + Force
-* **Durée** : Ponctuel
-* **Karma obligatoire** : non
-### Content
-* **Cible** : adversaire
-* **Réussite** : adversaire supris ET réussite test d'attaque
-* **Effet** : test de dommages : rang d'Attaque surprise à la place de la Force
-
-**Remarques** :
-
-À moins qu’il ne soit capable, d’une façon ou d’une autre, de recréer une situation où son adversaire sera de nouveau Surpris (en utilisant le talent d’ Approche surprise, par exemple), il ne peut utiliser le talent d’Attaque surprise qu’une seule fois contre un même adversaire lors d’un même combat. Pour plus d’informations sur la surprise et la façon dont elle fonctionne, consultez Les modificateurs de situation.
-
-## Unarmed Combat
-* **Action** : oui
-* **Effort** : 0
-* **Niveau** : rang + Dextérité
-* **Durée** : Ponctuel
-* **Karma obligatoire** : non
-### Content
-* **Cible** : adversaire
-* **Réussite** : résultat > Défense physique cible
-* **Effet** : test de dommages de l'arme sur la cible
-
-**Niveau** : rang + Dextérité
-
-**Action** : oui
-
-**Karma obligatoire** : non 
-
-**Effort** : 0
-
-Un adepte utilise le talent de Combat à mains nues quand il porte une attaque contre un adversaire en combat au contact, que cela soit avec ses mains, ses pieds ou tout autre partie de son corps, ou quand il essaie d’engager une lutte pour maîtriser un adversaire. L’adepte effectue un test de Combat à mains nues contre la Défense physique de son adversaire. Si le test réussit, l’attaque touche. Sauf indication contraire, l’adepte utilise uniquement son niveau de Force lors du test de dommages.
-
-## Abate curse
-
-**Niveau** : rang + Volonté
-
-**Action** : oui
-
-**Karma obligatoire** : non 
-
-**Effort** : 1
-
-Le talent de Contre-malédiction annule temporairement les malédictions jetées sur un objet. L’adepte doit se trouver au moins à 3 mètres de l’objet pour utiliser ce talent et rester dans ce périmètre pendant toute la durée du talent, sinon, ses effets s’interrompent. Il effectue un test de Contre-malédiction contre la malédiction jetée sur l’objet ayant le niveau le plus élevé. Si le test réussit, toutes les malédictions présentes sur l’objet sont neutralisées pendant un nombre d’heures égal au rang de l’adepte en Contre-malédiction. Ce talent ne soulage pas les victimes qui ont déjà été affectées par une malédiction, en revanche, il permet à des personnages non atteints de se servir de l’objet sans risquer les effets de la malédiction.
 
 ## Conversation
 ### Glimpse
@@ -521,6 +436,22 @@ Une fois que l’adepte a effectué un test d’attaque à distance (même s’i
 mystique ne peut pas être utilisée en même temps que l’option de combat Viser.
 La marque crée par ce talent est unique à chaque adepte. Elle peut être composée de trois petits points colorés, du symbole de son village natal ou de toute autre image personnalisée.
 
+## Melee weapon
+### Glimpse
+* **Action** : oui
+* **Effort** : 0
+* **Niveau** : rang + Dextérité
+* **Durée** : Ponctuel
+* **Karma obligatoire** : non
+### Content
+* **Cible** : tout
+* **Réussite** : résultat > Défense physique cible
+* **Effet** : test de dommages de l'arme sur la cible
+
+**Remarques** :
+
+L’adepte utilise le talent d’Armes de mêlée quand il veut porter une attaque au contact avec une arme de mêlée, comme une épée, une hache ou une dague.
+
 ## Mémoire livresque
 
 **Niveau** : rang + Volonté
@@ -534,6 +465,22 @@ La marque crée par ce talent est unique à chaque adepte. Elle peut être compo
 Le talent de Mémoire livresque permet à un adepte de mémoriser un livre ou toute autre forme écrite de texte. Il l’imprime dans son esprit et le met intégralement à sa disposition pour un usage ultérieur. 
 L’adepte n’a pas besoin de connaître la langue du livre qu’il souhaite mémoriser. Il effectue un test de Mémoire livresque contre la Défense magique du livre (généralement égale à 5 pour un livre normal). Cette Difficulté est plus élevée quand il s’agit de textes magiques. La Défense magique d’un grimoire est égale à la Difficulté de dissipation du sort du plus haut cercle contenu dans le grimoire. Si le test réussit, l’adepte peut mémoriser un nombre de pages par minute égal à son rang en Mémoire livresque. Il n’a toutefois besoin de réussir un seul test par livre.
 Une fois mémorisé, le contenu de l’ouvrage reste en mémoire pendant un nombre de mois égal au rang de l’adepte en Mémoire livresque avant de s’évanouir rapidement. Pendant toute cette période, l’intégralité du contenu du livre est parfaitement accessible. Le personnage peut le lire, le recopier ou y chercher des informations comme s’il avait le véritable livre sous les yeux. Il ne peut pas stocker en mémoire plus de textes qu’il ne possède de rang en Mémoire livresque. Cela étant, il peut volontairement choisir d’oublier certains textes mémorisés pour en apprendre de nouveaux.
+
+## Missile weapon
+### Glimpse
+* **Action** : oui
+* **Effort** : 0
+* **Niveau** : rang + Dextérité
+* **Durée** : Ponctuel
+* **Karma obligatoire** : non
+### Content
+* **Cible** : tout
+* **Réussite** : résultat > Défense physique cible
+* **Effet** : test de dommages de l'arme sur la cible
+
+**Remarques** :
+
+L’adepte utilise le talent d’Armes de tir quand il veut porter une attaque à distance avec une arme de tir, comme un arc, une arbalète ou tout autre arme qui utilise des projectiles de tir.
 
 ## Parade
 
@@ -741,6 +688,22 @@ Le talent de Stabilité améliore les capacités de l’adepte à rester debout 
 The adept resists magical abilities that target his Spell Defense. Any time he is targeted by such an ability, the adept may make a Steel Thought Test against his opponent’s Test Result. If
 successful, he forges his thoughts into more resilient patterns, pre- venting the ability from affecting him. This talent works similarly to the Avoid Blow talent, but is only effective against magical abili- ties, such as talents, spells, and creature powers. The adept can use thistalentanumberoftimesequaltohisSteelThoughtRankeach round, but only once against each such effect directed at him.
 
+## Surprise Strike
+### Glimpse
+* **Action** : non
+* **Effort** : 1
+* **Niveau** : rang + Force
+* **Durée** : Ponctuel
+* **Karma obligatoire** : non
+### Content
+* **Cible** : adversaire
+* **Réussite** : adversaire supris ET réussite test d'attaque
+* **Effet** : test de dommages : rang d'Attaque surprise à la place de la Force
+
+**Remarques** :
+
+À moins qu’il ne soit capable, d’une façon ou d’une autre, de recréer une situation où son adversaire sera de nouveau Surpris (en utilisant le talent d’ Approche surprise, par exemple), il ne peut utiliser le talent d’Attaque surprise qu’une seule fois contre un même adversaire lors d’un même combat. Pour plus d’informations sur la surprise et la façon dont elle fonctionne, consultez Les modificateurs de situation.
+
 ## Survie
 
 **Niveau** : Rang + Perception
@@ -764,6 +727,22 @@ C’est une chose que de trouver à manger, mais c’en est une autre que de sav
 #### L’eau
 En général, un donneur-de-noms a besoin d’un minimum d’un litre d’eau par jour s’il veut rester en bonne santé. Malheureusement, l’eau qu’on trouve dans la nature n’est pas toujours potable. Les personnages devraient donc prendre leurs précautions avant de boire l’eau d’une source inconnue. Dans les zones où l’on ne trouve pas de point d’eau évident, il faut recourir à d’autres méthodes. Ceci nécessite un test de Survie d’une difficulté de 7, mais cette difficulté peut monter jusqu’à 12 dans certaines régions particulièrement arides. Le résultat du test de Survie détermine la quantité d’eau trouvée. Un résultat Bon ou un résultat Moyen permettent de trouver assez d’eau pour abreuver 1 personne pendant 1 journée. Un résultat Excellent suffit pour 2 jours (ou pour 2 personnes pendant 1 journée) et un résultat Extraordinaire permet de désaltérer 1 personne pendant 3 jours (ou 3 personnes pendant une journée). 
 Une fois que les personnages ont trouvé de l’eau, ils doivent déterminer si elle est potable ou non. En règle générale, les rivières, les ruisseaux et les cours d’eau sont sains. L’eau stagnante, comme celle que l’on trouve dans une mare, une flaque ou même un petit lac, a plus de chances d’être souillée que l’eau courante mais la plupart du temps, elle est potable. Le plus sûr est d’utiliser un sort de Purification de l’eau. Ce sort permet de purifier la plus polluée des eaux. Les personnages peuvent aussi la purifier en la faisant bouillir, ce qui stérilise une eau souillée par les maladies.
+
+## Throwing weapon
+### Glimpse
+* **Action** : oui
+* **Effort** : 0
+* **Niveau** : rang + Dextérité
+* **Durée** : Ponctuel
+* **Karma obligatoire** : non 
+### Content
+* **Cible** : tout
+* **Réussite** : résultat > Défense physique cible
+* **Effet** : test de dommages de l'arme sur la cible
+
+**Remarques** :
+
+L’adepte utilise le talent d’Armes de jet quand il veut porter une attaque à distance avec une arme de jet, comme un caillou, une dague ou une lance.
 
 ## Tir infaillible
 
@@ -858,6 +837,27 @@ Le talent de Tissage de filament donne également à l’adepte une version limi
     <tr><td align="left">Voleur              </td><td align="left">Tissage de voleur</td></tr>
   </tbody>
 </table>
+
+## Unarmed Combat
+* **Action** : oui
+* **Effort** : 0
+* **Niveau** : rang + Dextérité
+* **Durée** : Ponctuel
+* **Karma obligatoire** : non
+### Content
+* **Cible** : adversaire
+* **Réussite** : résultat > Défense physique cible
+* **Effet** : test de dommages de l'arme sur la cible
+
+**Niveau** : rang + Dextérité
+
+**Action** : oui
+
+**Karma obligatoire** : non 
+
+**Effort** : 0
+
+Un adepte utilise le talent de Combat à mains nues quand il porte une attaque contre un adversaire en combat au contact, que cela soit avec ses mains, ses pieds ou tout autre partie de son corps, ou quand il essaie d’engager une lutte pour maîtriser un adversaire. L’adepte effectue un test de Combat à mains nues contre la Défense physique de son adversaire. Si le test réussit, l’attaque touche. Sauf indication contraire, l’adepte utilise uniquement son niveau de Force lors du test de dommages.
 
 ## Vigilance
 **Niveau** : Rang + Perception
