@@ -32,6 +32,26 @@ Ce talent ne soulage pas les victimes qui ont déjà été affectées par une ma
 Si l’adepte se retrouve À terre ou si son déplacement est réduit d’une façon ou d’une autre, il perd le bénéfice de ce bonus.
 Sur un degré de résultat Pathétique, l’adepte se retrouve automatiquement À terre.
 
+## Air Dance
+### Glimpse
+* **Action** : libre
+* **Effort** : 1
+* **Niveau** : rang + Dextérité
+* **Durée** : round
+* **Karma obligatoire** : non
+### Content
+* **Cible** : Adversaire désigné
+* **Réussite** : Initiative (rang Air Dance) Excellent vs cible
+* **Effet** :
+  * Niveau Air Dance remplace Niveau Dextérité pour l'initiative
+  * Si résultat excellent vs Cible, attaque supplémentaire après action de la cible
+
+**Remarques** :
+* L'adepte vole légèrement (glide)
+* Il doit être capable de bouger
+* Les Sylphelins peuvent l'utiliser (les autres mouvements magiques deviennent impossibles, ex Gliding Stride)
+* Les pénalité d'initiative ont lieus normalement
+
 ## Anticipate Blow
 ### Glimpse
 * **Action** : non
@@ -47,7 +67,6 @@ Sur un degré de résultat Pathétique, l’adepte se retrouve automatiquement �
 **Remarques** :
 
 Si adepte retarde son action jusqu’à ce que l'adversaire cible attaque, alors rang d’Anticipation + résultat de sa prochaine attaque contre lui sur ce round.
-
 
 ## Creature Analysis
 ### Glimpse
@@ -75,32 +94,9 @@ _Exemple d'utilisation_ : Quelle est la défense physique de la créature ?
 * **Réussite** : Test > plus haut charisme du groupe +1 par membre
 * **Effet** : Attitude favorable +1 degré (ex : Neutre -> Amical)
 
+**Remarques** :
+
 L'attitude de la cible ne peut être améliorée de la même façon pendant la durée du talent.
-
-## Danse des airs
-
-**Niveau** : rang + Dextérité
-
-**Action** : non
-
-**Karma obligatoire** : non 
-
-**Effort** : 1
-
-Le talent de Danse des airs permet à un adepte d’effectuer des mouvements et des attaques extrêmement rapides en volant légèrement au-dessus du sol. L’adepte ne peut réaliser la Danse des airs que s’il effectue une partie ou la totalité de son déplacement de combat (les personnages sylphelins ne sont pas obligés d’utiliser leur déplacement au sol et peuvent utiliser la Danse des airs en vol). L’adepte utilise son niveau de Danse des airs à la place de son niveau de Dextérité lors du test d’initiative, en appliquant les malus d’initiative infligées par les armures et les boucliers.
-Si l’adepte attaque un adversaire au corps à corps le round où il utilise la Danse des airs, il compare alors le résultat de son initiative avec celui de son adversaire. Sur un degré de résultat Excellent, l’adepte bénéficie d’une attaque au contact supplémentaire contre cet adversaire. Celle-ci est effectuée après l’action de ce dernier.
-
-## Déplacement silencieux
-
-**Niveau** : rang + Dextérité
-
-**Action** : non
-
-**Karma obligatoire** : non 
-
-**Effort** : 0
-
-Le talent de Déplacement silencieux associe la fluidité des mouvements à des effets magiques permettant d’atténuer au maximum le son des déplacements de l’adepte, que cela soit celui de ses pas ou celui des ailes des sylphelins. Le personnage effectue un test de Déplacement silencieux dont le résultat devient la Difficulté de détection de tous les tests de Perception effectués pour l’entendre se déplacer. Ce talent ne rend pas l’adepte plus difficile à voir : un personnage conscient de sa présence ou qui le regarde n’aura aucun mal à le suivre des yeux. Un adepte qui utilise le talent de Déplacement silencieux ne peut pas effectuer plus de la moitié de son Déplacement normal (en Déplacement de course ou en Déplacement de combat).
 
 ## Déguisement magique
 
@@ -638,6 +634,24 @@ Le talent de Sarcasmes permet à un adepte de faire perdre ses moyens à un pers
 
 Le talent de Saut de géant permet à un adepte d’effectuer des bonds prodigieux. Les Navigateurs ou les Écumeurs du ciel utilisent souvent le Saut de géant pour se jeter à l’abordage d’un pont à l’autre d’un navire pendant les combats, ou au contraire pour se dégager d’une épave en feu. L’adepte effectue un test de Saut de géant dont le résultat indique en mètres la distance maximale qu’il peut parcourir horizontalement en un bond. Au cours d’un saut, il peut monter à une hauteur maximale égale à la moitié du résultat du test, l’autre moitié devant être parcourue horizontalement. Il est impossible de sauter uniquement à la verticale à l’aide de ce talent. Enfin, la distance combinée du saut (hauteur + longueur) ne peut jamais dépasser le résultat du test, ni le Déplacement de combat de l’adepte.
 Le talent de Saut de géant peut également servir à esquiver des dangers « naturels », comme une chute de pierre ou de débris. Si l’adepte voit venir le danger, il peut effectuer un test de Saut de géant contre une Difficulté déterminée par le maître de jeu pour esquiver une telle menace. Si le test réussit, il réussit à dégager la zone au der-nier instant. Le Saut de géant ne peut être utilisé que pour ce genre de danger « environnementaux ». Il ne peut être employé à la place d’un test d’Esquive normal.
+
+## Silent Walk
+### Glimpse
+* **Action** : simple
+* **Effort** : 0
+* **Niveau** : rang + Dextérité
+* **Durée** : Déplacement / 2
+* **Karma obligatoire** : non
+### Content
+* **Cible** : Aucune
+* **Réussite** : résultat = difficulté de perception par le son
+* **Effet** : résultat = difficulté de perception par le son
+
+**Remarques** :
+
+Seuls les sons émis par le déplacement de l'adepte sont dissimulés.
+
+Un adepte qui utilise le talent de Déplacement silencieux ne peut pas effectuer plus de la moitié de son Déplacement normal (en Déplacement de course ou en Déplacement de combat).
 
 ## Sourire ravageur
 
