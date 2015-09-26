@@ -1,15 +1,19 @@
 # Talents
 ## Abate curse
+### Glimpse
+* **Action** : oui
+* **Effort** : 1
+* **Niveau** : rang + Volonté
+* **Durée** : rang * heures
+* **Karma obligatoire** : non
+### Content
+* **Cible** : malédiction la plus élevée sur un objet à moins de 3 mètres
+* **Réussite** : Valeur du Test > difficulté de la malédiction
+* **Effet** : Toutes les malédictions de l'objet sont neutralisées (portée 3 mètres)
 
-**Niveau** : rang + Volonté
+**Remarques** :
 
-**Action** : oui
-
-**Karma obligatoire** : non 
-
-**Effort** : 1
-
-Le talent de Contre-malédiction annule temporairement les malédictions jetées sur un objet. L’adepte doit se trouver au moins à 3 mètres de l’objet pour utiliser ce talent et rester dans ce périmètre pendant toute la durée du talent, sinon, ses effets s’interrompent. Il effectue un test de Contre-malédiction contre la malédiction jetée sur l’objet ayant le niveau le plus élevé. Si le test réussit, toutes les malédictions présentes sur l’objet sont neutralisées pendant un nombre d’heures égal au rang de l’adepte en Contre-malédiction. Ce talent ne soulage pas les victimes qui ont déjà été affectées par une malédiction, en revanche, il permet à des personnages non atteints de se servir de l’objet sans risquer les effets de la malédiction.
+Ce talent ne soulage pas les victimes qui ont déjà été affectées par une malédiction, en revanche, il permet à des personnages non atteints de se servir de l’objet sans risquer les effets de la malédiction.
 
 ## Acrobatic Strike
 ### Glimpse
@@ -59,42 +63,6 @@ Si adepte retarde son action jusqu’à ce que l'adversaire cible attaque, alors
 
 _Exemple d'utilisation_ : Quelle est la défense physique de la créature ?
 
-## Evidence Analysis
-### Glimpse
-* **Action** : oui
-* **Effort** : 1
-* **Niveau** : rang + Perception
-* **Durée** : Ponctuel
-* **Karma obligatoire** : non 
-### Content
-* **Cible** : personne à l'origine de l'indice
-* **Réussite** : résultat > Défense magique personne à l'origine de l'indice
-* **Effet** : chaque degré de réussite = l'adepte devine une réponse sur un quoi/comment d'un objet/lieu
-
-_Exemple d'utilisation_ : En examinant un lit, un adepte pourra par exemple déterminer si son occupant a bien dormi ou non.
-
-**Remarques** :
-
-Degrés de réussite :
-* Moyen : 1 question
-* Bon : 2 questions
-* Excellent : 3 questions
-* Extraordinaire : 4 questions
-
-Chaque question porte sur **le même indice**.
-
-Si événements moins de 24h et test réussi : peut vaguement les situer dans le temps (c’est arrivé ce matin, cet après midi, ce soir)
-
-Si Au-delà des 24 premières heures : perd cette capacité et la Difficulté du test augmente de +1 par jour supplémentaire
-
-Il n’y a **pas de limite de temps** pour tenter un test d’Analyse des indices.
-
-Le maître de jeu doit répondre aux questions qui lui sont posées.
-
-Pas de questions sur « qui » ou « pourquoi »
-
-L’investigation repose toujours sur les **faits, pas sur les motifs ou sur les intentions**.
-
 ## Conversation
 ### Glimpse
 * **Action** : oui
@@ -107,19 +75,7 @@ L’investigation repose toujours sur les **faits, pas sur les motifs ou sur les
 * **Réussite** : Test > plus haut charisme du groupe +1 par membre
 * **Effet** : Attitude favorable +1 degré (ex : Neutre -> Amical)
 
-The adept holds his own in conversations, using quips, clever timing, and other verbal tricks to make a favorable impression. The adept makes a Conversation Test against the high- est Social Defense among the target group, +1 for each additional character. If successful, the Attitude of the target characters rises favorably toward the adept by one degree (for example, from Neu- tral to Friendly) for the duration of the conversation and for a number of hours afterwards equal to the adept’s Conversation Rank. The target’s Attitude cannot be improved further while the talent is in effect. The adept can converse with a maximum number of characters equal to his Conversation Rank at a time.
-
-## Crochetage
-
-**Niveau** : rang + Dextérité
-
-**Action** : oui
-
-**Karma obligatoire** : non 
-
-**Effort** : 0
-
-Le talent de Crochetage permet à l’adepte d’invoquer un jeu d’outils de cambrioleur de couleur bleu pâle pour l’aider à forcer les serrures classiques et magiques. Le personnage effectue un test de Crochetage contre une Difficulté déterminée par le maître de jeu (si la serrure est commune), ou contre la Défense magique de la serrure (si elle est magique). Si le test réussit, la serrure s’ouvre. L’adepte peut tenter de crocheter la serrure un nombre de fois égal à son rang en Crochetage. S’il rate toutes ses tentatives ou s’il obtient un degré de résultat Pathétique lors d’un de ses tests, il ne peut plus tenter de crocheter la serrure en question avant d’avoir augmenté son rang en Crochetage.
+L'attitude de la cible ne peut être améliorée de la même façon pendant la durée du talent.
 
 ## Danse des airs
 
@@ -278,6 +234,42 @@ celui-ci ne le blesse. Pour éviter une attaque à distance il est nécessaire d
 The adept has a shrewd sense for the true market value of an
 object. The adept examines the object and makes an Evalu- ate Test against the item’s Spell Defense. On an Average Result, he learns the item’s approximate price. Better Result Levels may disclose more detailed information based on the local or global economy, at the gamemaster’s discretion. On a Good Result, the adept also learns the item’s hidden value, if any, not readily apparent to the casual observer (for example if it is worth more to collec- tors). When evaluating magical items, the adept learns that the item is magical on an Excellent Result, but not the effect or pur- pose of its enchantment.
 
+## Evidence Analysis
+### Glimpse
+* **Action** : oui
+* **Effort** : 1
+* **Niveau** : rang + Perception
+* **Durée** : Ponctuel
+* **Karma obligatoire** : non 
+### Content
+* **Cible** : personne à l'origine de l'indice
+* **Réussite** : résultat > Défense magique personne à l'origine de l'indice
+* **Effet** : chaque degré de réussite = l'adepte devine une réponse sur un quoi/comment d'un objet/lieu
+
+_Exemple d'utilisation_ : En examinant un lit, un adepte pourra par exemple déterminer si son occupant a bien dormi ou non.
+
+**Remarques** :
+
+Degrés de réussite :
+* Moyen : 1 question
+* Bon : 2 questions
+* Excellent : 3 questions
+* Extraordinaire : 4 questions
+
+Chaque question porte sur **le même indice**.
+
+Si événements moins de 24h et test réussi : peut vaguement les situer dans le temps (c’est arrivé ce matin, cet après midi, ce soir)
+
+Si Au-delà des 24 premières heures : perd cette capacité et la Difficulté du test augmente de +1 par jour supplémentaire
+
+Il n’y a **pas de limite de temps** pour tenter un test d’Analyse des indices.
+
+Le maître de jeu doit répondre aux questions qui lui sont posées.
+
+Pas de questions sur « qui » ou « pourquoi »
+
+L’investigation repose toujours sur les **faits, pas sur les motifs ou sur les intentions**.
+
 ## Flèche de direction
 
 **Niveau** : rang + Perception
@@ -383,6 +375,22 @@ Les effets de chaque test de Lecture et écriture durent un nombre d’heures é
 |Sylphelin|7|
 |Troll|6|
 |T’skrang|7|
+
+## Lock Picking
+### Glimpse
+* **Action** : oui
+* **Effort** : 0
+* **Niveau** : rang + Dextérité
+* **Durée** : Ponctuel
+* **Karma obligatoire** : non
+### Content
+* **Cible** : Serrure physique/magique
+* **Réussite** : Test > difficulté/défense magique
+* **Effet** : Ouverture de la serrure
+
+**Remarques** :
+
+L’adepte peut tenter de crocheter la serrure un nombre de fois égal à son rang en Crochetage. S’il rate toutes ses tentatives ou s’il obtient un degré de résultat Pathétique lors d’un de ses tests, il ne peut plus tenter de crocheter la serrure en question avant d’avoir augmenté son rang en Crochetage.
 
 ## Manoeuvre
 
