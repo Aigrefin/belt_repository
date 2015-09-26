@@ -98,33 +98,20 @@ _Exemple d'utilisation_ : Quelle est la défense physique de la créature ?
 
 L'attitude de la cible ne peut être améliorée de la même façon pendant la durée du talent.
 
-## Déguisement magique
+__Exemple d'utilisation__ : 
+Par exemple, un humain qui veut se déguiser en t’skrang possèdera une queue affreusement courte.
 
-**Niveau** : rang + Perception
-
-**Action** : oui
-
-**Karma obligatoire** : oui 
-
-**Effort** : 0
-
-Le talent de Déguisement magique permet à un adepte d’utiliser la magie des illusions pour se déguiser en une personne de son choix, tout en respectant certaines limitations. L’adepte ne peut pas peser plus du double ou moins de la moitié du poids de la personne en laquelle il souhaite se déguiser. Il ne peut pas modifier la taille, la largeur ou la longueur des différentes parties de son corps (membres, torse, tête) de plus de 50 %. Par exemple, un humain qui veut se déguiser en t’skrang possèdera une queue affreusement courte. L’adepte effectue un test de Déguisement magique dont le résultat devient la Difficulté de détection pour réussir à percer le déguisement. Chaque utilisation de Déguisement magique dure un nombre d’heures égal au rang de l’adepte dans le talent. Le personnage peut choisir de mettre un terme aux effets du talent quand il le souhaite.
-Le talent de Déguisement magique ne modifie que l’apparence de l’adepte. S’il désire véritablement se faire passer pour quelqu’un d’autre, l’adepte devra avoir recours à d’autres capacités pour convaincre, comme par exemple la compétence de Comédie ou le talent d’Imitation de voix.
-
-## Désamorçage des pièges
-
-**Niveau** : rang + Dextérité
-
-**Action** : oui
-
-**Karma obligatoire** : non (oui, voir texte) 
-
-**Effort** : 1
-
-Le talent de Désamorçage des pièges permet à un adepte d’user de déduction, de magie divinatoire et d’un toucher hors du commun pour désamorcer les pièges mécaniques et magiques. S’il s’agit d’un piège magique, celui-ci doit obligatoirement dépenser un point de karma pour utiliser le talent. Il effectue ensuite un test de Désamorçage de pièges contre la Difficulté de désamorçage, déterminée par le maître de jeu. Si le test réussit, le déclencheur du mécanisme est enrayé et le piège ne fonctionne plus. Sur un degré de résultat Pathétique, le déclencheur est activé et le piège se déclenche immédiatement.
-Un adepte peut essayer de désamorcer un piège un nombre de fois égal à son rang en Désamorçage des pièges. S’il échoue toutes ses tentatives, il ne peut plus tenter de désamorcer ce piège avant d’avoir augmenté son rang en Désamorçage des pièges.
-
-## Détection des armes
+## Detect Weapon
+### Glimpse
+* **Action** : oui
+* **Effort** : 0
+* **Niveau** : rang + Charisme
+* **Durée** : rang * heures
+* **Karma obligatoire** : non
+### Content
+* **Cible** : Individu, Groupe (*rank* individus)
+* **Réussite** : Test > plus haut charisme du groupe +1 par membre
+* **Effet** : Attitude favorable +1 degré (ex : Neutre -> Amical)
 
 **Niveau** : rang + Perception
 
@@ -149,6 +136,42 @@ Une fois que l’adepte a repéré une (ou plusieurs) arme dissimulée, il est c
 
 Le talent de Détection des pièges permet à un adepte de détecter les pièges d’origine mécanique et magique. L’adepte effectue un test de Détection des pièges et compare son résultat à la Difficulté de détection de tous les pièges à portée courte de visibilité. La Difficulté de détection de la plupart des pièges mécaniques est de 5, bien que des pièges parfaitement camouflés atteignent parfois des difficultés de détection de 9. En ce qui concerne les pièges magiques, leur Difficculté de détection est égale à la Défense magique du piège.
 Si le test réussit, l’adepte repère un indice révélant la présence d’un ou de plusieurs pièges. Sur un degré de résultat Bon, il peut localiser précisément le déclencheur et trouve généralement un moyen pour éviter de déclencher le piège. Un degré de résultat Excellent lui permet de savoir quel type d’effet déclenche le piège (écrasement, coup violent, poison, etc.) Un degré de résultat Extraordinaire signifie que l’adepte bénéficie d’un bonus égal à son rang en Détection des pièges pour toutes ces tentatives de Désamorçage des pièges.
+
+## Disarm Trap
+### Glimpse
+* **Action** : Standard
+* **Effort** : 1
+* **Niveau** : rang + Dextérité
+* **Durée** : Ponctuel (Limité)
+* **Karma obligatoire** : non/oui (voir remarques)
+### Content
+* **Cible** : Piège physique/magique
+* **Réussite** : Test > difficulté du piège
+* **Effet** : Piège enrayé (échec critique = activé)
+
+**Remarques** :
+* S’il s’agit d’un piège magique, celui-ci doit obligatoirement dépenser un point de karma pour utiliser le talent.
+* Sur un degré de résultat Pathétique, le déclencheur est activé et le piège se déclenche immédiatement.
+* Un adepte peut essayer de désamorcer un piège un nombre de fois égal à son rang en Désamorçage des pièges. S’il échoue toutes ses tentatives, il ne peut plus tenter de désamorcer ce piège avant d’avoir augmenté son rang en Désamorçage des pièges.
+
+## Disguise Self
+### Glimpse
+* **Action** : oui
+* **Effort** : 0
+* **Niveau** : rang + Perception
+* **Durée** : rang * heures
+* **Karma obligatoire** : oui
+### Content
+* **Cible** : Soi-même
+* **Réussite** : Résultat > test de détection
+* **Effet** : Se déguise en un autre donneur de nom (limité)
+
+**Remarques** :
+* L’adepte ne peut pas peser plus du double ou moins de la moitié du poids de la personne en laquelle il souhaite se déguiser.
+* Il ne peut pas modifier la taille, la largeur ou la longueur des différentes parties de son corps (membres, torse, tête) de plus de 50 %.
+* Le personnage peut choisir de mettre un terme aux effets du talent quand il le souhaite.
+* S’il désire véritablement se faire passer pour quelqu’un d’autre, l’adepte devra avoir recours à d’autres capacités pour convaincre, comme par exemple la compétence de Comédie ou le talent d’Imitation de voix.
+* Le talent de Déguisement magique ne modifie que l’apparence de l’adepte. 
 
 ## Don des langues
 
