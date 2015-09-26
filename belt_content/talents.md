@@ -1,20 +1,20 @@
 # Talents
 
-## Analyse de créature
+## Creature Analysis
 ### Glimpse
 * **Action** : oui
 * **Effort** : 1
 * **Niveau** : rang + Perception
 * **Durée** : Ponctuel
-* **Karma obligatoire** : non 
+* **Karma obligatoire** : non
 ### Content
-* **Cible** : créature 
+* **Cible** : créature
 * **Réussite** : résultat > Défense magique de la créature
 * **Effet** : chaque degré de réussite = une question au MJ sur un fait/stat de la créature
 
 _Exemple d'utilisation_ : Quelle est la défense physique de la créature ?
 
-## Analyse des indices
+## Evidence Analysis
 ### Glimpse
 * **Action** : oui
 * **Effort** : 1
@@ -50,7 +50,7 @@ Pas de questions sur « qui » ou « pourquoi »
 
 L’investigation repose toujours sur les **faits, pas sur les motifs ou sur les intentions**.
 
-## Anticipation
+## Anticipate Blow
 ### Glimpse
 * **Action** : non
 * **Effort** : 1
@@ -66,7 +66,7 @@ L’investigation repose toujours sur les **faits, pas sur les motifs ou sur les
 
 Si adepte retarde son action jusqu’à ce que l'adversaire cible attaque, alors rang d’Anticipation + résultat de sa prochaine attaque contre lui sur ce round.
 
-## Armes de jet
+## Throwing weapon
 ### Glimpse
 * **Action** : oui
 * **Effort** : 0
@@ -82,7 +82,7 @@ Si adepte retarde son action jusqu’à ce que l'adversaire cible attaque, alors
 
 L’adepte utilise le talent d’Armes de jet quand il veut porter une attaque à distance avec une arme de jet, comme un caillou, une dague ou une lance.
 
-## Armes de mêlée
+## Melee weapon
 ### Glimpse
 * **Action** : oui
 * **Effort** : 0
@@ -98,7 +98,7 @@ L’adepte utilise le talent d’Armes de jet quand il veut porter une attaque �
 
 L’adepte utilise le talent d’Armes de mêlée quand il veut porter une attaque au contact avec une arme de mêlée, comme une épée, une hache ou une dague.
 
-## Armes de tir
+## Missile weapon
 ### Glimpse
 * **Action** : oui
 * **Effort** : 0
@@ -114,7 +114,7 @@ L’adepte utilise le talent d’Armes de mêlée quand il veut porter une attaq
 
 L’adepte utilise le talent d’Armes de tir quand il veut porter une attaque à distance avec une arme de tir, comme un arc, une arbalète ou tout autre arme qui utilise des projectiles de tir.
 
-## Attaque acrobatique
+## Acrobatic Strike
 ### Glimpse
 * **Action** : non
 * **Effort** : 1
@@ -131,7 +131,7 @@ L’adepte utilise le talent d’Armes de tir quand il veut porter une attaque �
 Si l’adepte se retrouve À terre ou si son déplacement est réduit d’une façon ou d’une autre, il perd le bénéfice de ce bonus.
 Sur un degré de résultat Pathétique, l’adepte se retrouve automatiquement À terre.
 
-## Attaque surprise
+## Surprise Strike
 ### Glimpse
 * **Action** : non
 * **Effort** : 1
@@ -147,7 +147,7 @@ Sur un degré de résultat Pathétique, l’adepte se retrouve automatiquement �
 
 À moins qu’il ne soit capable, d’une façon ou d’une autre, de recréer une situation où son adversaire sera de nouveau Surpris (en utilisant le talent d’ Approche surprise, par exemple), il ne peut utiliser le talent d’Attaque surprise qu’une seule fois contre un même adversaire lors d’un même combat. Pour plus d’informations sur la surprise et la façon dont elle fonctionne, consultez Les modificateurs de situation.
 
-## Combats à mains nues
+## Unarmed Combat
 * **Action** : oui
 * **Effort** : 0
 * **Niveau** : rang + Dextérité
@@ -168,7 +168,7 @@ Sur un degré de résultat Pathétique, l’adepte se retrouve automatiquement �
 
 Un adepte utilise le talent de Combat à mains nues quand il porte une attaque contre un adversaire en combat au contact, que cela soit avec ses mains, ses pieds ou tout autre partie de son corps, ou quand il essaie d’engager une lutte pour maîtriser un adversaire. L’adepte effectue un test de Combat à mains nues contre la Défense physique de son adversaire. Si le test réussit, l’attaque touche. Sauf indication contraire, l’adepte utilise uniquement son niveau de Force lors du test de dommages.
 
-## Contre-malédiction
+## Abate curse
 
 **Niveau** : rang + Volonté
 
@@ -181,7 +181,18 @@ Un adepte utilise le talent de Combat à mains nues quand il porte une attaque c
 Le talent de Contre-malédiction annule temporairement les malédictions jetées sur un objet. L’adepte doit se trouver au moins à 3 mètres de l’objet pour utiliser ce talent et rester dans ce périmètre pendant toute la durée du talent, sinon, ses effets s’interrompent. Il effectue un test de Contre-malédiction contre la malédiction jetée sur l’objet ayant le niveau le plus élevé. Si le test réussit, toutes les malédictions présentes sur l’objet sont neutralisées pendant un nombre d’heures égal au rang de l’adepte en Contre-malédiction. Ce talent ne soulage pas les victimes qui ont déjà été affectées par une malédiction, en revanche, il permet à des personnages non atteints de se servir de l’objet sans risquer les effets de la malédiction.
 
 ## Conversation
+### Glimpse
+* **Action** : oui
+* **Effort** : 0
+* **Niveau** : rang + Charisme
+* **Durée** : rang * heures
+* **Karma obligatoire** : non
+### Content
+* **Cible** : Individu, Groupe (*rank* individus)
+* **Réussite** : Test > plus haut charisme du groupe +1 par membre
+* **Effet** : Attitude favorable +1 degré (ex : Neutre -> Amical)
 
+The adept holds his own in conversations, using quips, clever timing, and other verbal tricks to make a favorable impression. The adept makes a Conversation Test against the high- est Social Defense among the target group, +1 for each additional character. If successful, the Attitude of the target characters rises favorably toward the adept by one degree (for example, from Neu- tral to Friendly) for the duration of the conversation and for a number of hours afterwards equal to the adept’s Conversation Rank. The target’s Attitude cannot be improved further while the talent is in effect. The adept can converse with a maximum number of characters equal to his Conversation Rank at a time.
 
 ## Crochetage
 
