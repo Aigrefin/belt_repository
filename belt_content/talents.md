@@ -101,29 +101,6 @@ L'attitude de la cible ne peut être améliorée de la même façon pendant la d
 __Exemple d'utilisation__ : 
 Par exemple, un humain qui veut se déguiser en t’skrang possèdera une queue affreusement courte.
 
-## Detect Weapon
-### Glimpse
-* **Action** : oui
-* **Effort** : 0
-* **Niveau** : rang + Charisme
-* **Durée** : rang * heures
-* **Karma obligatoire** : non
-### Content
-* **Cible** : Individu, Groupe (*rank* individus)
-* **Réussite** : Test > plus haut charisme du groupe +1 par membre
-* **Effet** : Attitude favorable +1 degré (ex : Neutre -> Amical)
-
-**Niveau** : rang + Perception
-
-**Action** : oui
-
-**Karma obligatoire** : non 
-
-**Effort** : 1
-
-Le talent de Détection des armes permet à un adepte de détecter la présence d’armes dissimulées, qu’elles aient été cachées normalement ou magiquement. L’adepte effectue un test de Détection des armes et compare le résultat à la Difficulté de détection de chaque arme dissimulée dans son champ de vision à portée courte. Quand le test réussit, il repère et reconnaît le type d’arme dont il s’agit. En revanche, il ne sait pas si l’arme possède des capacités magiques. 
-Une fois que l’adepte a repéré une (ou plusieurs) arme dissimulée, il est conscient de la (ou leur) présence et d’une éventuelle traîtrise. Il ne peut donc pas être Surpris par une attaque effectuée avec cette arme (voir Dissimulation d’arme), à moins que le porteur de l’arme ne mette en œuvre une autre astuce pour le surprendre.
-
 ## Détection des pièges
 
 **Niveau** : rang + Perception
@@ -136,6 +113,20 @@ Une fois que l’adepte a repéré une (ou plusieurs) arme dissimulée, il est c
 
 Le talent de Détection des pièges permet à un adepte de détecter les pièges d’origine mécanique et magique. L’adepte effectue un test de Détection des pièges et compare son résultat à la Difficulté de détection de tous les pièges à portée courte de visibilité. La Difficulté de détection de la plupart des pièges mécaniques est de 5, bien que des pièges parfaitement camouflés atteignent parfois des difficultés de détection de 9. En ce qui concerne les pièges magiques, leur Difficculté de détection est égale à la Défense magique du piège.
 Si le test réussit, l’adepte repère un indice révélant la présence d’un ou de plusieurs pièges. Sur un degré de résultat Bon, il peut localiser précisément le déclencheur et trouve généralement un moyen pour éviter de déclencher le piège. Un degré de résultat Excellent lui permet de savoir quel type d’effet déclenche le piège (écrasement, coup violent, poison, etc.) Un degré de résultat Extraordinaire signifie que l’adepte bénéficie d’un bonus égal à son rang en Détection des pièges pour toutes ces tentatives de Désamorçage des pièges.
+
+## Detect Weapon
+### Glimpse
+* **Action** : Standard
+* **Effort** : 1
+* **Niveau** : rang + Perception
+* **Durée** : rang * heures
+* **Karma obligatoire** : non
+### Content
+* **Cible** : Armes dissimulées à portée de visibilité (see the Gamemaster’s Guide, p. 119)
+* **Réussite** : Test > Difficultés des armes dissimulées
+* **Effet** :
+ * Détecte les armes (leur type) dissimulées
+ * Ne peut être attaqué par surprise par cette arme (see Conceal Object, p.64) sauf si son propriétaire prend des mesures différentes pour le prendre par surprise
 
 ## Disarm Trap
 ### Glimpse
