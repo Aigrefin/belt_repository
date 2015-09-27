@@ -68,6 +68,23 @@ Sur un degré de résultat Pathétique, l’adepte se retrouve automatiquement �
 
 Si adepte retarde son action jusqu’à ce que l'adversaire cible attaque, alors rang d’Anticipation + résultat de sa prochaine attaque contre lui sur ce round.
 
+## Avoid Blow
+### Glimpse
+* **Action** : Libre
+* **Effort** : 1
+* **Niveau** : rang + Dextérité
+* **Durée** : Ponctuel
+* **Karma obligatoire** : non
+### Content
+* **Cible** : Aucune
+* **Réussite** : Test > test de l'attaque
+* **Effet** : Esquive attaque dirigée contre lui 
+
+**Remarques** :
+* Pour une attaque à distance, le résultat doit au moins être Bon
+* Nombre d'esquive pour un round = rang d'esquive
+* L'adepte ne doit pas être aveuglé ou surpris
+
 ## Climbing
 ### Glimpse
 * **Action** : Standard
@@ -236,19 +253,6 @@ Par exemple, un humain qui veut se déguiser en t’skrang possèdera une queue 
     <tr><td align="left">Voleur              </td><td align="left">6/5</td></tr>
   </tbody>
 </table>
-
-## Esquive
-
-**Niveau** : rang + Dextérité
-
-**Action** : non
-
-**Karma obligatoire** : non 
-
-**Effort** : 1
-
-Le talent d’Esquive permet à un adepte d’éviter des coups dirigées contre lui en combat. Quand il est la cible d’une attaque, à distance ou au contact, l’adepte peut effectuer un test d’Esquive contre le résultat du test d’attaque de son adversaire pour éviter le coup avant que 
-celui-ci ne le blesse. Pour éviter une attaque à distance il est nécessaire d’obtenir au moins un degré de résultat Bon. Si le test réussit, l’adepte évite le coup : il voit l’attaque arriver et s’écarte au bon moment. Sur un degré de résultat Pathétique il se retrouve automatiquement À terre (voir Les modificateurs de situation, cf. Combat). L’adepte peut utiliser ce talent un nombre de fois par round égal à son rang en Esquive, mais jamais deux fois pour esquiver une même attaque. Un adepte ne peut pas tenter d’Esquive s’il est Surpris ou Pris au dépourvu.
 
 ## Evaluate
 
