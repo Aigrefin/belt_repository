@@ -237,18 +237,6 @@ Par exemple, un humain qui veut se déguiser en t’skrang possèdera une queue 
   </tbody>
 </table>
 
-## Esquive des pièges
-
-**Niveau** : rang + Dextérité
-
-**Action** : non (voir le texte)
-
-**Karma obligatoire** : non 
-
-**Effort** : 1
-
-Le talent d’Esquive des pièges permet à un adepte de réagir beaucoup plus rapidement face aux pièges mécaniques et magiques. Quand il déclenche un piège en fouillant ou en cherchant à le neutraliser, ou si un piège pouvant l’affecter est déclenché, il a droit à un test d’Esquive des pièges contre le résultat du test d’Initiative du piège. Si le test réussit, il peut agir avant le déclenchement du piège et tenter de ne pas en subir les effets. L’adepte peut effectuer un Déplacement égal ou inférieur à la moitié de son Déplacement de combat pour sortir de la zone d’effet du piège. Si le test échoue, les effets du piège sont résolus normalement.
-
 ## Esquive
 
 **Niveau** : rang + Dextérité
@@ -932,6 +920,18 @@ Le talent de Tissage de filament donne également à l’adepte une version limi
     <tr><td align="left">Voleur              </td><td align="left">Tissage de voleur</td></tr>
   </tbody>
 </table>
+
+## Trap Initiative
+### Glimpse
+* **Action** : Libre
+* **Effort** : 1
+* **Niveau** : rang + Dextérité
+* **Durée** : Ponctuel
+* **Karma obligatoire** : non
+### Content
+* **Cible** : Aucune
+* **Réussite** : Test > initiative du piège
+* **Effet** : Moitié de la vitesse de déplacement pour échapper à un piège qui se déclenche sur l'adepte 
 
 ## Unarmed Combat
 * **Action** : oui
