@@ -265,9 +265,9 @@ Par exemple, un humain qui veut se déguiser en t’skrang possèdera une queue 
 * **Cible** : Objet
 * **Réussite** : Test > défense magique de l'objet
 * **Effet** :
-* Moyen : prix approximatif
-* Bon : valeur cachée (par exemple valeur pour un collectionneur)
-* Excellent : magique ou non (mais pas les effets ou buts des enchantements)
+ * Moyen : prix approximatif
+ * Bon : valeur cachée (par exemple valeur pour un collectionneur)
+ * Excellent : magique ou non (mais pas les effets ou buts des enchantements)
 
 ## Evidence Analysis
 ### Glimpse
