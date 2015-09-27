@@ -255,9 +255,19 @@ Par exemple, un humain qui veut se déguiser en t’skrang possèdera une queue 
 </table>
 
 ## Evaluate
-
-The adept has a shrewd sense for the true market value of an
-object. The adept examines the object and makes an Evalu- ate Test against the item’s Spell Defense. On an Average Result, he learns the item’s approximate price. Better Result Levels may disclose more detailed information based on the local or global economy, at the gamemaster’s discretion. On a Good Result, the adept also learns the item’s hidden value, if any, not readily apparent to the casual observer (for example if it is worth more to collec- tors). When evaluating magical items, the adept learns that the item is magical on an Excellent Result, but not the effect or pur- pose of its enchantment.
+### Glimpse
+* **Action** : Standard
+* **Effort** : 0
+* **Niveau** : rang + Perception
+* **Durée** : Ponctuel
+* **Karma obligatoire** : non
+### Content
+* **Cible** : Objet
+* **Réussite** : Test > défense magique de l'objet
+* **Effet** :
+* Moyen : prix approximatif
+* Bon : valeur cachée (par exemple valeur pour un collectionneur)
+* Excellent : magique ou non (mais pas les effets ou buts des enchantements)
 
 ## Evidence Analysis
 ### Glimpse
