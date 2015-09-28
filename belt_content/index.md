@@ -18,7 +18,7 @@ A coté de chaque partie se trouve un bouton <span class="fa fa-plus"></span>, p
 ### Filtrer
 
 Quand ce qui nous intéresse a été sélectionné, l'oeil <span class="fa fa-eye"></span> situé en haut de page permet de cacher toutes les parties non séléctionnées.
-Un tel affichage permet par exemple de n'avoir que les talents qui concerne notre personnage. Ou de garder la trace des sorts qu'un ennemi a utilisé...
+Un tel affichage permet par exemple de n'avoir que les talents qui concerne notre personnage, de comparer les talents possible pour le prochain niveau, ou de garder la trace des sorts qu'un personnage récurrent utilise (on sait jamais ...).
 
 ### Conserver
 
