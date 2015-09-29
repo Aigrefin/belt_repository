@@ -167,6 +167,21 @@ Par exemple, un humain qui veut se déguiser en t’skrang possèdera une queue 
  * Détecte les armes (leur type) dissimulées
  * Ne peut être attaqué par surprise par cette arme (see Conceal Object, p.64) sauf si son propriétaire prend des mesures différentes pour le prendre par surprise
 
+## Direction Arrow
+### Glimpse
+* **Action** : oui
+* **Effort** : 2
+* **Niveau** : rang + Perception
+* **Durée** : Ponctuel
+* **Karma obligatoire** : oui
+### Content
+* **Cible** : objet, chose ayant appartenu à la cible
+* **Réussite** : résultat > Défense magique de la cible
+* **Effet** : indique la direction de la cible
+
+**Remarques** :
+* portée de rang * kilomètre
+
 ## Disarm Trap
 ### Glimpse
 * **Action** : Standard
@@ -305,30 +320,21 @@ Pas de questions sur « qui » ou « pourquoi »
 
 L’investigation repose toujours sur les **faits, pas sur les motifs ou sur les intentions**.
 
-## Flèche de direction
+## Flame Arrow
+### Glimpse
+* **Action** : Libre
+* **Effort** : 1
+* **Niveau** : rang + Volonté
+* **Durée** : Ponctuel
+* **Karma obligatoire** : oui 
+### Content
+* **Cible** : adversaire
+* **Réussite** : Aucun
+* **Effet** : Durant une attaque, le test de dégats utilisé est celui du test Flame Arrow
 
-**Niveau** : rang + Perception
-
-**Action** : oui
-
-**Karma obligatoire** : oui 
-
-**Effort** : 2
-
-Le talent de Flèche de direction permet à un adepte de déterminer la position d’une cible (personnage ou objet) à partir de sa propre position. Pour utiliser ce talent, l’adepte doit avoir en sa possession quelque chose ayant un lien direct avec sa cible, comme une mèche de cheveu, un bout de pierre d’un bâtiment ou même un objet de trame. Il décoche ensuite une flèche droit dans le ciel et effectue un test de Flèche de direction contre la Défense magique de la cible. Quel que soit le résultat de ce test, la flèche monte haut dans le ciel, retombe à pic puis se fracasse au sol en petites étincelles. Si le test réussit, les étincelles forment une flèche de feu de 1 mètre de long, pointée en direction de la cible. Si le test échoue ou si la cible se trouve à une distance en kilomètres supérieure au rang de l’adepte en Flèche de direction, les fragments en flammés s’éparpillent sur le sol, sans fournir d’indication de direction précise. Malgré son nom, Flèche de direction fonctionne également avec d’autres types de projectiles pour armes de tir, comme les carreaux d’arbalète, les billes de fronde ou les aiguilles de sarbacane.
-
-## Flèche enflammée
-
-**Niveau** : rang + Volonté
-
-**Action** : non
-
-**Karma obligatoire** : oui 
-
-**Effort** : 2
-
-Le talent de Flèche enflammée transforme une flèche normale en un projectile en flammé, détruisant la flèche au passage. L’adepte effectue un test d’Armes de tir contre la Défense de la cible. Si le test réussit, il utilise son niveau de Flèche en flammée pour le test de dommages. L’Armure physique protège contre ces dommages.
-Malgré son nom, Flèche enflammée fonctionne également avec d’autres types de projectiles pour armes de tir, comme les carreaux d’arbalète, les billes de fronde ou les aiguilles de sarbacane.
+**Remarques** :
+* N'importe quelle munition fait l'affaire
+* Le projectile est détruit à la fin du talent
 
 ## Forge Weapon
 
