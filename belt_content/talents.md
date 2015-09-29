@@ -337,6 +337,19 @@ L’investigation repose toujours sur les **faits, pas sur les motifs ou sur les
 * Le projectile est détruit à la fin du talent
 
 ## Forge Weapon
+### Glimpse
+* **Action** : Soutenue
+* **Effort** : 1
+* **Niveau** : rang + Perception
+* **Durée** : Ponctuel
+* **Karma obligatoire** : non
+### Content
+* **Cible** : adversaire
+* **Réussite** : Aucun
+* **Effet** : Augmente le Damage Step d'une arme
+
+**Remarques** :
+* L'arme peut être une arme de mélée, un projectile, une arme de lancer, mais pas des munitions (type flèche ou carreau)
 
 The adept improves the Damage Step of a weapon, including melee, missile, and thrown weapons, but not ammunition, like arrows or bolts. The work must be carried out at a properly-
 equipped forge, using forge tools (p.266) if working metal, or at a properly-equipped workshop, using appropriate tools if working other materials. A poorly-equipped workplace may increase the time required, or a well-equipped workplace may reduce the time required, to use the talent, at the gamemaster’s discretion. The adept works to improve a weapon for a number of days equal to the weapon’s Size and makes a Forge Weapon Test against a Dif- ficulty Number equal to the weapon’s current Damage Step+9. If successful, the weapon’s Damage Step is increased by +1. Forge Weapon can be successfully used on the same weapon a number of times equal to its Size, but the process gets harder each time, as the Difficulty Number increases as the weapon’s Damage Step increases. The adept cannot forge a weapon’s base Damage Step higher than his Forge Weapon Rank—an adept with Forge Weapon at Rank 4 can perform increases up to the fourth, regardless of whether he forged previous increases himself. The Damage Step increase lasts for a year and a day from the date of the last suc- cessful forging. Additional Forge Weapon Tests can be made at any time to extend the duration to a full year and a day, even for weapons already enhanced to their limit. A Pathetic Result on a Forge Weapon Test ruins the weapon. This talent cannot be used to enhance threaded magical weapons; rather, weapons enhanced by Forge Weapon form the base of further enchantment to create thread weapons. The services of smiths can be bought in larger cities, but the higher the desired Damage Step increase, the higher the cost (higher bonuses require a more experienced smith). The first two increases usually cost 250 silver pieces each; the third and fourth, 500 silver pieces each; and the fifth and sixth, 750 cost silver pieces each (these costs cover any failed attempts).
