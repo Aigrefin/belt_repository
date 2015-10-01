@@ -341,18 +341,43 @@ L’investigation repose toujours sur les **faits, pas sur les motifs ou sur les
 * **Action** : Soutenue
 * **Effort** : 1
 * **Niveau** : rang + Perception
-* **Durée** : Ponctuel
+* **Durée** : 1 an et 1 jour
 * **Karma obligatoire** : non
 ### Content
 * **Cible** : adversaire
-* **Réussite** : Aucun
-* **Effet** : Augmente le Damage Step d'une arme
+* **Réussite** : Test > Damage step total de l'arme + 9
+* **Effet** : Augmente le Damage Step d'une arme de 1
 
 **Remarques** :
 * L'arme peut être une arme de mélée, un projectile, une arme de lancer, mais pas des munitions (type flèche ou carreau)
+* La forge doit être bien équipée, avec les bons outils. La qualité de la forge fera varier le temps de réalisation (+ ou -)
+* Le nombre d'améliorations maximum d'une arme est égal à la taille de l'arme
+* Chaque amélioration est plus difficile que la précédente (chaque amélioration ajoute 1 au damage step)
+* L'arme ne peut être améliorée plus de fois que le rang du forgeron qui veut la travailler (un autre plus expérimenté pourrait)
+* Un résultat pathétique détruit l'arme
+* Une arme améliorée au maximum peut être forgée pour rétablir la durée de ses améliorations à 1 an et 1 jour
+* Une arme magique ne peut être améliorée, mais une arme améliorée est la base d'une arme magique
+* Le coût des améliorations couvre la perte éventuelle pendant la forge
 
-The adept improves the Damage Step of a weapon, including melee, missile, and thrown weapons, but not ammunition, like arrows or bolts. The work must be carried out at a properly-
-equipped forge, using forge tools (p.266) if working metal, or at a properly-equipped workshop, using appropriate tools if working other materials. A poorly-equipped workplace may increase the time required, or a well-equipped workplace may reduce the time required, to use the talent, at the gamemaster’s discretion. The adept works to improve a weapon for a number of days equal to the weapon’s Size and makes a Forge Weapon Test against a Dif- ficulty Number equal to the weapon’s current Damage Step+9. If successful, the weapon’s Damage Step is increased by +1. Forge Weapon can be successfully used on the same weapon a number of times equal to its Size, but the process gets harder each time, as the Difficulty Number increases as the weapon’s Damage Step increases. The adept cannot forge a weapon’s base Damage Step higher than his Forge Weapon Rank—an adept with Forge Weapon at Rank 4 can perform increases up to the fourth, regardless of whether he forged previous increases himself. The Damage Step increase lasts for a year and a day from the date of the last suc- cessful forging. Additional Forge Weapon Tests can be made at any time to extend the duration to a full year and a day, even for weapons already enhanced to their limit. A Pathetic Result on a Forge Weapon Test ruins the weapon. This talent cannot be used to enhance threaded magical weapons; rather, weapons enhanced by Forge Weapon form the base of further enchantment to create thread weapons. The services of smiths can be bought in larger cities, but the higher the desired Damage Step increase, the higher the cost (higher bonuses require a more experienced smith). The first two increases usually cost 250 silver pieces each; the third and fourth, 500 silver pieces each; and the fifth and sixth, 750 cost silver pieces each (these costs cover any failed attempts).
+Evolution du prix selon les améliorations
+<table border="1">
+  <tbody>
+    <tr><th align="left">Etape d'amélioration          </td><th align="left">Valeur ajoutée à l'arme
+    </td></tr>
+    <tr><td align="left">1              </td><td align="left">+250
+    </td></tr>
+    <tr><td align="left">2              </td><td align="left">+250
+    </td></tr>
+    <tr><td align="left">3              </td><td align="left">+500
+    </td></tr>
+    <tr><td align="left">4              </td><td align="left">+500
+    </td></tr>
+    <tr><td align="left">5              </td><td align="left">+750
+    </td></tr>
+    <tr><td align="left">6              </td><td align="left">+750
+    </td></tr>
+  </tbody>
+</table>
 
 ## Histoire des objets
 
